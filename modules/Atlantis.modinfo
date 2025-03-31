@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="goggles_civ_atlantis" version="1"
+	xmlns="ModInfo">
+	<Properties>
+		<Name>LOC_MODULE_ATLANTIS_NAME</Name>
+		<Description>LOC_MODULE_ATLANTIS_DESCRIPTION</Description>
+		<Authors>LOC_AUTHORS_JEC</Authors>
+		<Package>DLC</Package>
+	</Properties>
+	<Dependencies>
+		<Mod id="base-standard" title="LOC_MODULE_BASE_STANDARD_NAME"/>
+	</Dependencies>
+	<ActionCriteria>
+		<Criteria id="antiquity-age-current">
+			<AgeInUse>AGE_ANTIQUITY</AgeInUse>
+		</Criteria>
+		<Criteria id="antiquity-age-persist" any="true">
+			<AgeInUse>AGE_ANTIQUITY</AgeInUse>
+			<AgeInUse>AGE_EXPLORATION</AgeInUse>
+			<AgeInUse>AGE_MODERN</AgeInUse>
+		</Criteria>
+		<Criteria id="exploration-age-current">
+			<AgeInUse>AGE_EXPLORATION</AgeInUse>
+		</Criteria>
+		<Criteria id="modern-age-current">
+			<AgeInUse>AGE_MODERN</AgeInUse>
+		</Criteria>
+		<Criteria id="always">
+			<AlwaysMet></AlwaysMet>
+		</Criteria>
+        <Criteria all="true" id="ged-ynamp-enable">
+            <!-- let other mods override the yield banner -->
+            <ModInUse>ged-ynamp</ModInUse>
+        </Criteria>
+	</ActionCriteria>
+	<ActionGroups>
+		<!-- Optional compatability -->
+		<ActionGroup id="base-game-main-ged-ynamp" scope="game" criteria="ged-ynamp-enable">
+			<!-- ynamp compatability -->
+			<Actions>
+                <UpdateDatabase>
+					<Item>ynamp/data/greatest-earth.xml</Item>
+                </UpdateDatabase>
+            </Actions>
+		</ActionGroup>
+		<!-- atlantis -->
+        <ActionGroup id="goggles-mod-atlantis" scope="game" criteria="always">
+            <Actions>
+                <UpdateDatabase>
+
+                </UpdateDatabase>
+                <UpdateText>
+
+                </UpdateText>
+                <ImportFiles>
+                    <Item>icons/civ_sym_atlantis</Item>
+                </ImportFiles>
+                <UpdateIcons>
+                    <Item>data/icons/atlantis.xml</Item>
+                </UpdateIcons>
+                <ScenarioScripts>
+                </ScenarioScripts>
+            </Actions>
+        </ActionGroup>
+		<ActionGroup id="age-antiquity-persist-atlantis" scope="game" criteria="antiquity-age-persist">
+			<Actions>
+				<UpdateArt>
+				</UpdateArt>
+				<UpdateDatabase>
+
+				</UpdateDatabase>
+                <ImportFiles>
+					
+                </ImportFiles>
+                <UpdateIcons>
+
+                </UpdateIcons>
+				<UpdateText>
+				</UpdateText>
+			</Actions>
+		</ActionGroup>
+		<ActionGroup id="age-antiquity-main-atlantis" scope="game" criteria="antiquity-age-current">
+			<Actions>
+				<UpdateArt>
+				</UpdateArt>
+				<UpdateDatabase>
+
+				</UpdateDatabase>
+				<UpdateText>
+					<Item>text/en_us/LoadingText.xml</Item>
+				</UpdateText>
+                <UpdateVisualRemaps>
+                    <Item>data/visual-remap.xml</Item>
+                </UpdateVisualRemaps>
+			</Actions>
+		</ActionGroup>
+		<ActionGroup id="shell-atlantis" scope="shell" criteria="always">
+			<Actions>
+				<UpdateArt>
+				</UpdateArt>
+				<UpdateColors>
+				</UpdateColors>
+				<UpdateDatabase>
+					<Item>config/config.xml</Item>
+				</UpdateDatabase>
+                <ImportFiles>
+					<Item>icons/civ_sym_atlantis</Item>
+                    <Item>icons/civ_sym_atlantis.png</Item>
+                </ImportFiles>
+                <UpdateIcons>
+                    <Item>data/icons/atlantis.xml</Item>
+                </UpdateIcons>
+				<UpdateText>
+					<Item>text/en_us/CivilizationText.xml</Item>
+				</UpdateText>
+				<UpdateColors>
+				</UpdateColors>
+			</Actions>
+		</ActionGroup>
+	</ActionGroups>
+	<LocalizedText>
+		<File>text/en_us/ModuleText.xml</File>
+	</LocalizedText>
+</Mod>

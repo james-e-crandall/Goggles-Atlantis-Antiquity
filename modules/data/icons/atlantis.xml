@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Database>
+    <IconDefinitions>
+        <!-- Civ Symbol-->
+        <Row>
+            <ID>CIVILIZATION_ATLANTIS</ID>
+            <Path>fs://game/goggles_civ_atlantis/icons/civ_sym_atlantis</Path>
+            <Context>DEFAULT</Context>
+        </Row>
+		<Row>
+			<ID>ICON_CIVILIZATION_ATLANTIS</ID>
+            <Path>fs://game/goggles_civ_atlantis/icons/civ_sym_atlantis</Path>
+		</Row>
+        <!-- Loadscreen -->
+
+        <!-- Culture -->
+
+        <!-- UU AND UI -->
+       
+
+    </IconDefinitions>
+</Database>

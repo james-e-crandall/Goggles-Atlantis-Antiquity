@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Leaders>
+	</Leaders>
+	<LeaderItems>
+
+	</LeaderItems>
+	<LeaderTags>
+
+	</LeaderTags>
+	<LeaderQuotes>
+
+	</LeaderQuotes>
+	<LeaderCivilizationBias>
+
+	</LeaderCivilizationBias>
+	<Civilizations>
+		<Row Domain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS" CivilizationName="LOC_CIVILIZATION_ATLANTIS_NAME" CivilizationFullName="LOC_CIVILIZATION_ATLANTIS_FULLNAME" CivilizationDescription="LOC_CIVILIZATION_ATLANTIS_DESCRIPTION" CivilizationIcon="civ_sym_atlantis.png"/>
+	</Civilizations>
+	<CivilizationItems>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS" Type="TRAIT_ATLANTIS_ABILITY" Kind="KIND_TRAIT" Name="LOC_TRAIT_ATLANTIS_ABILITY_NAME" Description="LOC_TRAIT_ATLANTIS_ABILITY_DESCRIPTION"/>
+
+	</CivilizationItems>
+	<CivilizationTags>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS" TagType="TAG_TRAIT_CULTURAL"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS" TagType="TAG_TRAIT_ECONOMIC"/>
+	</CivilizationTags>
+	<LeaderCivilizationBias>
+
+	</LeaderCivilizationBias>
+	<CivilizationUnlocks>
+		
+	</CivilizationUnlocks>
+	<LeaderUnlocks>
+
+	</LeaderUnlocks>
+	<Mementos>
+
+	</Mementos>
+</Database>
