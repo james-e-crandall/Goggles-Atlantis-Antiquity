@@ -21,7 +21,7 @@
 			<Text>Critias</Text>
 		</Row>
 		<Row Tag="LOC_TRADITION_ATLANTIS_CRITIAS_DESCRIPTION">
-			<Text>+1 Gold per Specialist</Text>
+			<Text>Increased Gold on Urban Districts in Cities.</Text>
 		</Row>
 
 		<!-- NODE_CIVIC_AQ_ATLANTIS_ORICALICUM -->
@@ -36,7 +36,7 @@
 		</Row>
 
 		<Row Tag="LOC_CIVIC_AQ_ATLANTIS_HUNT_OF_THE_BULLS_DESCRIPTION">
-			<Text>+1 Gold per urban population during a golden age.</Text>
+			<Text>Increased Influence on Urban Districts in Cities during a golden age.</Text>
 		</Row>
 		
 
@@ -52,7 +52,7 @@
 		</Row>
 
 		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_LAWS_OF_THE_TEN_KINGS_DESCRIPTION">
-			<Text>+1 Culture per urban population during a golden age.</Text>
+			<Text>Increased Culture on Urban Districts in Cities during a golden age.</Text>
 		</Row>
 
 		<!-- LOC_CIVIC_ATLANTIS_FAIREST_OF_ALL_PLAINS_QUOTE -->
@@ -70,7 +70,13 @@
 			<Text>Sixth Portion</Text>
 		</Row>
 		<Row Tag="LOC_TRADITION_ATLANTIS_SIXTH_PORTION_DESCRIPTION">
-			<Text>+2 Culture on Gold buildings</Text>
+			<Text>{LOC_TRADITION_ATLANTIS_SIXTH_PORTION_COMBAT_DESCRIPTION}{LOC_TRADITION_ATLANTIS_SIXTH_PORTION_MAINTAIN_DESCRIPTION}</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_ATLANTIS_SIXTH_PORTION_COMBAT_DESCRIPTION">
+			<Text>+5 Combat Strength for Cavalry.</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_ATLANTIS_SIXTH_PORTION_MAINTAIN_DESCRIPTION">
+			<Text>+200%[icon:YIELD_GOLD] Gold to maintain Cavalry  Military Units.</Text>
 		</Row>
 
 	</EnglishText>

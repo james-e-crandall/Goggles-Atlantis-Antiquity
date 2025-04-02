@@ -53,8 +53,10 @@
 	<UnitClass_Abilities>
 	</UnitClass_Abilities>
 	<UnitAbilities>
+		<Row UnitAbilityType="ABILITY_SIXTH_PORTION" Name="LOC_ABILITY_SIXTH_PORTION_NAME" Description="LOC_ABILITY_SIXTH_PORTION_DESCRIPTION"/>
 	</UnitAbilities>
 	<UnitAbilityModifiers>
+		<Row UnitAbilityType="ABILITY_SIXTH_PORTION" ModifierId="BYEOLMUBAN_MOD_COMBAT_VS_CAVALRY"/>
 	</UnitAbilityModifiers>
 	<ChargedUnitAbilities>
 	</ChargedUnitAbilities>

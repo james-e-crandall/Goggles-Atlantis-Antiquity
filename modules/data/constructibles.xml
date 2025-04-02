@@ -39,7 +39,7 @@
 	<AgeConstructibleDefaultMaintenances>
 	</AgeConstructibleDefaultMaintenances>
 	<Constructible_YieldChanges>
-		<Row ConstructibleType="IMPROVEMENT_ATLANTIS_VOLCANO" YieldType="YIELD_PRODUCTION" YieldChange="4"/>
+		<Row ConstructibleType="IMPROVEMENT_ATLANTIS_VOLCANO" YieldType="YIELD_CULTURE" YieldChange="1"/>
 	</Constructible_YieldChanges>
 	<Constructible_Maintenances>
 	</Constructible_Maintenances>
