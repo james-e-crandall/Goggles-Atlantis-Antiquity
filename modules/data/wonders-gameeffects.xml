@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameEffects xmlns="GameEffects">
+	<Modifier id="WONDER_TEMPLE_OF_POSEIDON_MOD" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_UNIT_ADJUST_ABILITY">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_UNIT_TAG_MATCHES">
+				<Argument name="Tag">UNIT_CLASS_NAVAL</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="AbilityType">ABILITY_TEMPLE_OF_POSEIDON_UPGRADE</Argument>
+		<String context="Description">LOC_TEMPLE_OF_POSEIDON_DESCRIPTION</String>
+	</Modifier>
+
+	<Modifier id="ABILITY_TEMPLE_OF_POSEIDON_MOD" collection="COLLECTION_OWNER" effect="EFFECT_ADJUST_UNIT_POST_COMBAT_HEAL">
+		<Argument name="AttackAmount">15</Argument>
+	</Modifier>
+</GameEffects>

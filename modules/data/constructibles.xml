@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>  
+	<Types>
+		<Row Type="IMPROVEMENT_ATLANTIS_VOLCANO" Kind="KIND_CONSTRUCTIBLE"/>
+	</Types>
+	<TypeQuotes>
+	</TypeQuotes>
+	<AgeGrowthBalances>
+	</AgeGrowthBalances>
+	<Constructibles>
+		<Row ConstructibleType="IMPROVEMENT_ATLANTIS_VOLCANO" Name="LOC_IMPROVEMENT_ATLANTIS_VOLCANO_NAME" Description="LOC_IMPROVEMENT_ATLANTIS_VOLCANO_DESCRIPTION" ConstructibleClass="IMPROVEMENT" Cost="10" Population="1"  Age="AGE_ANTIQUITY"/>
+	</Constructibles>
+	<Buildings>
+	</Buildings>
+	<Improvements>
+		<Row ConstructibleType="IMPROVEMENT_ATLANTIS_VOLCANO" TraitType="TRAIT_ATLANTIS"/>
+	</Improvements>
+	<Wonders>
+	</Wonders>
+	<TypeTags>
+	</TypeTags>
+	<Constructible_ValidDistricts>
+		<Row ConstructibleType="IMPROVEMENT_ATLANTIS_VOLCANO" DistrictType="DISTRICT_RURAL"/>
+	</Constructible_ValidDistricts>
+	<District_FreeConstructibles>
+		<Row DistrictType="DISTRICT_RURAL" ConstructibleType="IMPROVEMENT_ATLANTIS_VOLCANO" FeatureType="FEATURE_VOLCANO" Priority="5"/>
+	</District_FreeConstructibles>
+	<Constructible_ValidBiomes>
+	</Constructible_ValidBiomes>
+	<Constructible_InvalidAdjacentBiomes>
+	</Constructible_InvalidAdjacentBiomes>
+	<Constructible_ValidTerrains>
+	</Constructible_ValidTerrains>
+	<Constructible_RequiredFeatures>
+		<Row ConstructibleType="IMPROVEMENT_ATLANTIS_VOLCANO" FeatureType="FEATURE_VOLCANO"/>
+	</Constructible_RequiredFeatures>
+	<AgeConstructibleDefaultYields>
+	</AgeConstructibleDefaultYields>
+	<AgeConstructibleDefaultMaintenances>
+	</AgeConstructibleDefaultMaintenances>
+	<Constructible_YieldChanges>
+		<Row ConstructibleType="IMPROVEMENT_ATLANTIS_VOLCANO" YieldType="YIELD_PRODUCTION" YieldChange="4"/>
+	</Constructible_YieldChanges>
+	<Constructible_Maintenances>
+	</Constructible_Maintenances>
+	<Constructible_Adjacencies>
+	</Constructible_Adjacencies>
+	<Adjacency_YieldChanges>
+	</Adjacency_YieldChanges>
+	<Constructible_WarehouseYields>
+	</Constructible_WarehouseYields>
+	<Warehouse_YieldChanges>
+ 	</Warehouse_YieldChanges>
+	<Constructible_WildcardAdjacencies>
+	</Constructible_WildcardAdjacencies>
+	<Constructible_Logistics>
+	</Constructible_Logistics>
+	<Constructible_Plunders>
+	</Constructible_Plunders>
+	<ConstructibleModifiers>
+	</ConstructibleModifiers>
+	<UniqueQuarters>
+		<Row UniqueQuarterType="QUARTER_BELLOWS_OF_HEPHAESTUS" BuildingType1="BUILDING_BRICKYARD" BuildingType2="BUILDING_SAW_PIT" Name="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_NAME" Description="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_DESCRIPTION" Tooltip="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_TOOLTIP" TraitType="TRAIT_ATLANTIS"/>
+	</UniqueQuarters>
+	<GameModifiers>
+		<Row ModifierId="MOD_BELLOWS_OF_HEPHAESTUS_WONDER_PRODUCTION"/>
+	</GameModifiers>
+	<!-- These are listed here so the AI can evalutate Unique Quarters. They do not have any effects on the game for human players. -->
+	<UniqueQuarterModifiers>
+		<Row UniqueQuarterType="QUARTER_BELLOWS_OF_HEPHAESTUS" ModifierId="MOD_BELLOWS_OF_HEPHAESTUS_WONDER_PRODUCTION"/>
+	</UniqueQuarterModifiers>
+	<Constructible_Advisories>
+	</Constructible_Advisories>
+
+</Database>

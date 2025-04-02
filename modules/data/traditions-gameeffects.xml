@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameEffects xmlns="GameEffects">
+	<!-- Tradition: Critias: +1 Gold per specialists. -->
+	<Modifier id="TRADITION_ATLANTIS_CRITIAS_MOD" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_WORKER_YIELD">
+		<Argument name="YieldType">YIELD_GOLD</Argument>
+		<Argument name="Amount">1</Argument>
+		<Argument name="Description">LOC_TRADITION_ATLANTIS_CRITIAS_DESCRIPTION</Argument>
+	</Modifier>
+
+	<!-- Sixth portion: Settlements receive increased Gold based on Urban Population  -->
+	<Modifier id="TRADITION_ATLANTIS_SIXTH_PORTION_MOD" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD_PER_POPULATION">
+		<Argument name="YieldType">YIELD_GOLD</Argument>
+		<Argument name="Amount">1</Argument>
+		<Argument name="Divisor">2</Argument>
+		<Argument name="Urban">true</Argument>
+		<Argument name="Rural">false</Argument>
+		<Argument name="Tooltip">LOC_TRADITION_ATLANTIS_SIXTH_PORTION_NAME</Argument>
+		<String context="Description">LOC_TRADITION_ATLANTIS_SIXTH_PORTION_DESCRIPTION</String>
+	</Modifier>
+
+</GameEffects>

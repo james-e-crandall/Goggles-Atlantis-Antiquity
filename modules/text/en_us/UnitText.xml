@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!-- Unit Abilities -->
+
+		<!-- Greece Unique Units -->
+		<Row Tag="LOC_UNIT_WAR_CHARIOT_NAME">
+			<Text>War Chariot</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WAR_CHARIOT_BASE_DESCRIPTION">
+			<Text>Atlantian Unique War Chariot Unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WAR_CHARIOT_DESCRIPTION">
+			<Text>Atlantian Unique War Chariot Unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WAR_CHARIOT_2_DESCRIPTION">
+			<Text>Tier 2 Atlantian Unique War Chariot Unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WAR_CHARIOT_3_DESCRIPTION">
+			<Text>Tier 3 Atlantian Unique War Chariot Unit.</Text>
+		</Row>
+	</EnglishText>
+</Database>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameEffects xmlns="GameEffects">
+
+		<!-- NODE_CIVIC_AQ_ATLANTIS_PILLARS_OF_HERCULES -->
+
+
+		<!-- NODE_CIVIC_AQ_ATLANTIS_HUNT_OF_THE_BULLS -->
+		<Modifier id="NODE_CIVIC_AQ_ATLANTIS_HUNT_OF_THE_BULLS_MOD" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_CONSTRUCTIBLE_YIELD">
+			<SubjectRequirements>
+				<Requirement type="REQUIREMENT_PLAYER_IS_IN_GOLDEN_AGE" />
+			</SubjectRequirements>
+			<Argument name="Tag">GOLD</Argument>
+			<Argument name="YieldType">YIELD_GOLD</Argument>
+			<Argument name="Amount" type="ScaleByGameAge" extra="100">5</Argument>
+		</Modifier>
+
+		<!-- NODE_CIVIC_AQ_ATLANTIS_LAWS_OF_THE_TEN_KINGS -->
+		<Modifier id="NODE_CIVIC_AQ_ATLANTIS_LAWS_OF_THE_TEN_KINGS_MOD" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_CONSTRUCTIBLE_YIELD">
+			<SubjectRequirements>
+				<Requirement type="REQUIREMENT_PLAYER_IS_IN_GOLDEN_AGE"/>
+			</SubjectRequirements>
+			<Argument name="Tag">CULTURE</Argument>
+			<Argument name="YieldType">YIELD_CULTURE</Argument>
+			<Argument name="Amount" type="ScaleByGameAge" extra="100">3</Argument>
+		</Modifier>
+
+		<!-- NODE_CIVIC_AQ_ATLANTIS_FAIREST_OF_ALL_PLAINS -->
+
+</GameEffects>

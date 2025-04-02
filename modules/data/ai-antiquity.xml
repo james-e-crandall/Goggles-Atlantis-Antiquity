@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<AiComponents>
+	</AiComponents>
+	<AiDefinitions>
+	</AiDefinitions>
+	<OpTeamRequirements>
+	</OpTeamRequirements>
+	<PseudoYields>
+	</PseudoYields>
+	<AiListTypes>
+		<!-- Atlantis -->
+		<Row ListType="Atlantis Unit Biases"/>
+		<Row ListType="Atlantis Government Bias"/>
+		<Row ListType="Atlantis Constructibles Biases" />
+		<Row ListType="Atlantis Budget Biases" />
+		<Row ListType="Atlantis PseudoYield Biases" />
+		<Row ListType="Atlantis Tag Biases"/>
+	</AiListTypes>
+	<AiLists>
+		<!-- Atlantis -->
+		<Row ListType="Atlantis Unit Biases" LeaderType="TRAIT_ATLANTIS" System="UnitBiases"/>
+		<Row ListType="Atlantis Government Bias" LeaderType="TRAIT_ATLANTIS" System="GovernmentBiases"/>
+		<Row ListType="Atlantis Constructibles Biases" LeaderType="TRAIT_ATLANTIS" System="ConstructibleBiases" />	
+		<Row ListType="Atlantis Budget Biases" LeaderType="TRAIT_ATLANTIS" System="AiBudgetBiases"/>	
+		<Row ListType="Atlantis PseudoYield Biases" LeaderType="TRAIT_ATLANTIS" System="PseudoYieldBiases"/>	
+		<Row ListType="Atlantis Tag Biases" LeaderType="TRAIT_ATLANTIS" System="TagBiases"/>
+	</AiLists>
+	<AiFavoredItems>
+		<!-- Atlantis -->
+
+	</AiFavoredItems>
+	<!-- City Strategies -->
+	<Strategies>
+	</Strategies>
+	<StrategyConditions>
+	</StrategyConditions>
+	<Strategy_Priorities>
+	</Strategy_Priorities>
+	<AiListTypes>
+	</AiListTypes>
+	<AiLists>
+	</AiLists>
+	<AiFavoredItems>
+	</AiFavoredItems>
+</Database>

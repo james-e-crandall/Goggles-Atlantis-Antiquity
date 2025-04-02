@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!-- NODE_CIVIC_AQ_ATLANTIS_PILLARS_OF_HERCULES -->
+		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_PILLARS_OF_HERCULES_QUOTE">
+			<Text>Pillars of Hercules</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_PILLARS_OF_HERCULES_QUOTE_AUTHOR">
+			<Text>Pillars of Hercules</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ATLANTIS_PILLARS_OF_HERCULES_NAME">
+			<Text>Pillars of Hercules</Text>
+		</Row>
+
+		<!-- NODE_CIVIC_AQ_ATLANTIS_ORICALICUM -->
+		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_ORICALICUM_QUOTE">
+			<Text>Oricalicum</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_ORICALICUM_QUOTE_AUTHOR">
+			<Text>Oricalicum</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ATLANTIS_ORICALICUM_NAME">
+			<Text>Oricalicum</Text>
+		</Row>
+
+		<!-- LOC_CIVIC_AQ_ATLANTIS_LAWS_OF_THE_TEN_KINGS_QUOTE -->
+		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_LAWS_OF_THE_TEN_KINGS_QUOTE">
+			<Text>Laws of the Ten Kings</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_LAWS_OF_THE_TEN_KINGS_QUOTE_AUTHOR">
+			<Text>Laws of the Ten Kings</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ATLANTIS_LAWS_OF_THE_TEN_KINGS_NAME">
+			<Text>Laws of the Ten Kings</Text>
+		</Row>
+
+		<!-- LOC_CIVIC_ATLANTIS_FAIREST_OF_ALL_PLAINS_QUOTE -->
+		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_FAIREST_OF_ALL_PLAINS_QUOTE">
+			<Text>Fairest of All Plains</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_FAIREST_OF_ALL_PLAINS_QUOTE_AUTHOR">
+			<Text>Fairest of All Plains</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ATLANTIS_FAIREST_OF_ALL_PLAINS_NAME">
+			<Text>Fairest of All Plains</Text>
+		</Row>
+
+	</EnglishText>
+</Database>

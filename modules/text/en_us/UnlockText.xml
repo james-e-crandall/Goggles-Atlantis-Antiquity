@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_UNLOCK_PLAY_AS_ATLANTIS_DESCRIPTION">
+			<Text>Play as the [B]Atlantis[/B].</Text>
+		</Row>
+		<Row Tag="LOC_UNLOCK_PLAY_AS_BENJAMIN_FRANKLIN_ATLANTIS_TOOLTIP">
+			<Text>[B]{LOC_LEADER_BENJAMIN_FRANKLIN_NAME}[/B] was born near [B]{LOC_CIVILIZATION_ATLANTIS_NAME}[/B].</Text>
+		</Row>
+	</EnglishText>
+</Database>

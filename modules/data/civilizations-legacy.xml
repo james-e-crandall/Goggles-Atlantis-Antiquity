@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Types>
+		<!-- Major Civs -->
+		<Row Type="TRAIT_ATLANTIS" Kind="KIND_TRAIT"/>
+		<Row Type="CIVILIZATION_ATLANTIS" Kind="KIND_CIVILIZATION"/>
+	</Types>
+	<LegacyCivilizations>
+		<!-- Full Civs -->
+		<Row CivilizationType="CIVILIZATION_ATLANTIS" Name="LOC_CIVILIZATION_ATLANTIS_NAME" FullName="LOC_CIVILIZATION_ATLANTIS_FULLNAME" Adjective="LOC_CIVILIZATION_ATLANTIS_ADJECTIVE" Age="AGE_ANTIQUITY"/>
+	</LegacyCivilizations>
+	<LegacyCivilizationTraits>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS" TraitType="TRAIT_ATLANTIS"/>
+	</LegacyCivilizationTraits>
+	<Traits>
+		<Row TraitType="TRAIT_ATLANTIS" InternalOnly="true"/>
+	</Traits>
+	<LegacyLeaderCivPriorities>
+		<Row Leader="LEADER_BENJAMIN_FRANKLIN" CivilizationType="CIVILIZATION_ATLANTIS"/>
+	</LegacyLeaderCivPriorities>
+</Database>

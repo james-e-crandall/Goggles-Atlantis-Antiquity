@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_ATLANTIS">
+			<Text>Now in this island of Atlantis there existed a confederation of kings, of great and marvelous power, which held sway over all the island, and over many other islands also and parts of the continent. But afterwards there occurred violent earthquakes and floods; and in a single day and night of misfortune all your warlike men in a body sank into the earth, and the island of Atlantis in like manner disappeared in the depths of the sea.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INTRO_ATLANTIS">
+			<Text>But afterwards there occurred violent earthquakes and floods; and in a single day and night of misfortune all your warlike men in a body sank into the earth, and the island of Atlantis in like manner disappeared in the depths of the sea.</Text>
+		</Row>
+	</EnglishText>
+</Database>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!--ATLANTIS-->
+		<Row Tag="LOC_CITY_NAME_ATLANTIS1">
+			<Text>Manching </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATLANTIS2">
+			<Text>Basilea</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATLANTIS3">
+			<Text>Vindonissa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATLANTIS4">
+			<Text>Alcimoennis</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATLANTIS5">
+			<Text>Altenburg-Rheinau</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATLANTIS6">
+			<Text>Donnersberg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATLANTIS7">
+			<Text>Dünsberg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATLANTIS8">
+			<Text>Finsterlohr</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATLANTIS9">
+			<Text>Creglingen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATLANTIS10">
+			<Text>Heidengraben</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATLANTIS11">
+			<Text>Hohenasperg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATLANTIS12">
+			<Text>Glauberg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATLANTIS13">
+			<Text>Martberg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATLANTIS14">
+			<Text>Milseburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATLANTIS15">
+			<Text>Staffelberg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATLANTIS16">
+			<Text>Steinburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATLANTIS17">
+			<Text>Glauberg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATLANTIS18">
+			<Text>Hirschlanden</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATLANTIS19">
+			<Text>Hochdorf</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATLANTIS20">
+			<Text>Hohenasperg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATLANTIS21">
+			<Text>Heuneburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATLANTIS22">
+			<Text>Ubiorum</Text>
+		</Row>
+	</EnglishText>
+</Database>
