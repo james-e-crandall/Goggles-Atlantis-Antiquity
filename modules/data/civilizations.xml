@@ -22,6 +22,7 @@
 	<CivilizationTraits>
 		<Row CivilizationType="CIVILIZATION_ATLANTIS" TraitType="TRAIT_ANTIQUITY_CIV"/>
 		<Row CivilizationType="CIVILIZATION_ATLANTIS" TraitType="TRAIT_ATLANTIS"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS" TraitType="TRAIT_ATLANTIS_2"/>
 		<Row CivilizationType="CIVILIZATION_ATLANTIS" TraitType="TRAIT_ATLANTIS_ABILITY"/>
 		<Row CivilizationType="CIVILIZATION_ATLANTIS" TraitType="TRAIT_ATTRIBUTE_CULTURAL"/>
 		<Row CivilizationType="CIVILIZATION_ATLANTIS" TraitType="TRAIT_ATTRIBUTE_ECONOMIC"/>

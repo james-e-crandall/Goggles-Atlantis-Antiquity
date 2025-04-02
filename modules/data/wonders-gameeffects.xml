@@ -7,7 +7,7 @@
 			</Requirement>
 		</SubjectRequirements>
 		<Argument name="AbilityType">ABILITY_TEMPLE_OF_POSEIDON_UPGRADE</Argument>
-		<String context="Description">LOC_TEMPLE_OF_POSEIDON_DESCRIPTION</String>
+		<String context="Description">LOC_WONDER_TEMPLE_OF_POSEIDON_DESCRIPTION</String>
 	</Modifier>
 
 	<Modifier id="ABILITY_TEMPLE_OF_POSEIDON_MOD" collection="COLLECTION_OWNER" effect="EFFECT_ADJUST_UNIT_POST_COMBAT_HEAL">

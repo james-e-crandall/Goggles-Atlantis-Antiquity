@@ -3,6 +3,7 @@
 	<Types>
 		<!-- Major Civs -->
 		<Row Type="TRAIT_ATLANTIS" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_ATLANTIS_2" Kind="KIND_TRAIT"/>
 		<Row Type="CIVILIZATION_ATLANTIS" Kind="KIND_CIVILIZATION"/>
 	</Types>
 	<LegacyCivilizations>
@@ -14,6 +15,7 @@
 	</LegacyCivilizationTraits>
 	<Traits>
 		<Row TraitType="TRAIT_ATLANTIS" InternalOnly="true"/>
+		<Row TraitType="TRAIT_ATLANTIS_2" InternalOnly="true"/>
 	</Traits>
 	<LegacyLeaderCivPriorities>
 		<Row Leader="LEADER_BENJAMIN_FRANKLIN" CivilizationType="CIVILIZATION_ATLANTIS"/>

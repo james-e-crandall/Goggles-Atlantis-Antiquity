@@ -18,6 +18,11 @@
             <ID>cult_atlantis</ID>
             <Path>fs://game/goggles_civ_atlantis/icons/cult_atlantis.png</Path>
         </Row> 
+        <!-- wonder -->
+		<Row>
+			<ID>WONDER_TEMPLE_OF_POSEIDON</ID>
+			<Path>fs://game/goggles_civ_germania/icons/wondericon_temple_of_poseidon.png</Path>
+		</Row>
 
         <!-- UU AND UI -->
         <Row>

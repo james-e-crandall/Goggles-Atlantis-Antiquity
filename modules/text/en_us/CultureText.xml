@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Database>
 	<EnglishText>
+		<Row Tag="LOC_TREE_CIVICS_AQ_ATLANTIS_NAME">
+			<Text>Atlantian Civics</Text>
+		</Row>
+
 		<!-- NODE_CIVIC_AQ_ATLANTIS_PILLARS_OF_HERCULES -->
 		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_PILLARS_OF_HERCULES_QUOTE">
 			<Text>Pillars of Hercules</Text>
@@ -10,6 +14,14 @@
 		</Row>
 		<Row Tag="LOC_CIVIC_ATLANTIS_PILLARS_OF_HERCULES_NAME">
 			<Text>Pillars of Hercules</Text>
+		</Row>
+
+		<!-- traditions -->
+		<Row Tag="LOC_TRADITION_ATLANTIS_CRITIAS_NAME">
+			<Text>Critias</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_ATLANTIS_CRITIAS_DESCRIPTION">
+			<Text>Critias Description</Text>
 		</Row>
 
 		<!-- NODE_CIVIC_AQ_ATLANTIS_ORICALICUM -->
@@ -43,6 +55,13 @@
 		</Row>
 		<Row Tag="LOC_CIVIC_ATLANTIS_FAIREST_OF_ALL_PLAINS_NAME">
 			<Text>Fairest of All Plains</Text>
+		</Row>
+		<!-- traditions -->
+		<Row Tag="LOC_TRADITION_ATLANTIS_SIXTH_PORTION_NAME">
+			<Text>Sixth Portion</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_ATLANTIS_SIXTH_PORTION_DESCRIPTION">
+			<Text>Sixth Portion Description</Text>
 		</Row>
 
 	</EnglishText>

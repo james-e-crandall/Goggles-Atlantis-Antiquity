@@ -12,6 +12,7 @@
 			<Argument name="Tag">GOLD</Argument>
 			<Argument name="YieldType">YIELD_GOLD</Argument>
 			<Argument name="Amount" type="ScaleByGameAge" extra="100">5</Argument>
+			<String context="Description">LOC_CIVIC_AQ_ATLANTIS_HUNT_OF_THE_BULLS_NAME</String>
 		</Modifier>
 
 		<!-- NODE_CIVIC_AQ_ATLANTIS_LAWS_OF_THE_TEN_KINGS -->
@@ -22,6 +23,7 @@
 			<Argument name="Tag">CULTURE</Argument>
 			<Argument name="YieldType">YIELD_CULTURE</Argument>
 			<Argument name="Amount" type="ScaleByGameAge" extra="100">3</Argument>
+			<String context="Description">LOC_CIVIC_AQ_ATLANTIS_LAWS_OF_THE_TEN_KINGS_NAME</String>
 		</Modifier>
 
 		<!-- NODE_CIVIC_AQ_ATLANTIS_FAIREST_OF_ALL_PLAINS -->

@@ -8,7 +8,7 @@
 			<Text>Temple of Poseidon. {LOC_WONDER_TEMPLE_OF_POSEIDON_TOOLTIP}</Text>
 		</Row>
 		<Row Tag="LOC_WONDER_TEMPLE_OF_POSEIDON_TOOLTIP">
-			<Text>Naval Units Heals for a set amount after defeating an enemy Unit.. Ageless. Must be built on the coast.</Text>
+			<Text>Naval Units Heals for a set amount after defeating an enemy Unit. Ageless. Must be built on the coast.</Text>
 		</Row>
 		<Row Tag="LOC_QUOTE_WONDER_TEMPLE_OF_POSEIDON">
 			<Text>Place me on Sunium's marbled steep / Where nothing save the waves and I / May hear our mutual murmurs sweep.</Text>

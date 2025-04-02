@@ -57,6 +57,7 @@
                     <Item>icons/civ_sym_atlantis.png</Item>
 					<Item>icons/cult_atlantis.png</Item>
 					<Item>icons/unitflag_war_chariot.png</Item>
+					<Item>icons/wondericon_temple_of_poseidon.png</Item>
                 </ImportFiles>
                 <UpdateIcons>
                     <Item>data/icons/atlantis.xml</Item>
@@ -134,6 +135,7 @@
                     <Item>icons/civ_sym_atlantis.png</Item>
 					<Item>icons/cult_atlantis.png</Item>
 					<Item>icons/unitflag_war_chariot.png</Item>
+					<Item>icons/wondericon_temple_of_poseidon.png</Item>
                 </ImportFiles>
                 <UpdateIcons>
                     <Item>data/icons/atlantis.xml</Item>
