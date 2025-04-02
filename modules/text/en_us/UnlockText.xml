@@ -5,7 +5,7 @@
 			<Text>Play as the [B]Atlantis[/B].</Text>
 		</Row>
 		<Row Tag="LOC_UNLOCK_PLAY_AS_BENJAMIN_FRANKLIN_ATLANTIS_TOOLTIP">
-			<Text>[B]{LOC_LEADER_BENJAMIN_FRANKLIN_NAME}[/B] was born near [B]{LOC_CIVILIZATION_ATLANTIS_NAME}[/B].</Text>
+			<Text>[B]{LOC_LEADER_BENJAMIN_FRANKLIN_NAME}[/B] belived in [B]{LOC_CIVILIZATION_ATLANTIS_NAME}[/B].</Text>
 		</Row>
 	</EnglishText>
 </Database>

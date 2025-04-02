@@ -9,8 +9,8 @@
 
 	</ProgressionTreeNodes>
 	<ProgressionTreeNodeUnlocks>
-		<Row ProgressionTreeNodeType="NODE_TECH_AQ_WHEEL" TargetKind="KIND_UNIT" TargetType="UNIT_WAR_CHARIOT_2" UnlockDepth="1" RequiredTraitType="TRAIT_ATLANTIS"/>
-		<Row ProgressionTreeNodeType="NODE_TECH_AQ_IRON_WORKING" TargetKind="KIND_UNIT" TargetType="UNIT_WAR_CHARIOT_3" UnlockDepth="1" RequiredTraitType="TRAIT_ATLANTIS"/>
+		<Row ProgressionTreeNodeType="NODE_TECH_AQ_WHEEL" TargetKind="KIND_UNIT" TargetType="UNIT_WAR_CHARIOT" UnlockDepth="1" RequiredTraitType="TRAIT_ATLANTIS"/>
+		<Row ProgressionTreeNodeType="NODE_TECH_AQ_IRON_WORKING" TargetKind="KIND_UNIT" TargetType="UNIT_WAR_CHARIOT_2" UnlockDepth="1" RequiredTraitType="TRAIT_ATLANTIS"/>
 	</ProgressionTreeNodeUnlocks>
 	<ProgressionTreePrereqs>
 

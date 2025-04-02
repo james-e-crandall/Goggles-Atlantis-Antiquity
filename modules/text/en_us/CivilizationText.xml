@@ -5,5 +5,17 @@
 			<Text>Atlantis</Text>
 		</Row>
 
+		<Row Tag="LOC_CIVILIZATION_ATLANTIS_FULLNAME">
+			<Text>Atlantis Fullname</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_ATLANTIS_ABILITY_NAME">
+			<Text>Atlantis Ability</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_ATLANTIS_ABILITY_DESCRIPTION">
+			<Text>Atlantis Ability Description</Text>
+		</Row>
+
 	</EnglishText>
 </Database>

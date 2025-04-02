@@ -20,6 +20,7 @@
 	<CivilizationItems>
 		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS" Type="TRAIT_ATLANTIS_ABILITY" Kind="KIND_TRAIT" Name="LOC_TRAIT_ATLANTIS_ABILITY_NAME" Description="LOC_TRAIT_ATLANTIS_ABILITY_DESCRIPTION"/>
 		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS" Type="UNIT_WAR_CHARIOT" Kind="KIND_UNIT" Name="LOC_UNIT_WAR_CHARIOT_NAME" Description="LOC_UNIT_WAR_CHARIOT_BASE_DESCRIPTION" Icon="ICON_UNIT_WAR_CHARIOT"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS" Type="QUARTER_FURSTABTEI" Kind="KIND_QUARTER" Name="LOC_QUARTER_FURSTABTEI_NAME" Description="LOC_QUARTER_FURSTABTEI_DESCRIPTION" Icon="city_uniquequarter"/>
 		
 	</CivilizationItems>
 	<CivilizationTags>

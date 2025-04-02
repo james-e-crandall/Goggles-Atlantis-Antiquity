@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameEffects xmlns="GameEffects">
 	<Modifier id="MOD_BELLOWS_OF_HEPHAESTUS_WONDER_PRODUCTION" collection="COLLECTION_OWNER" effect="EFFECT_CITY_ADJUST_WONDER_PRODUCTION">
-		<Argument name="Percent">15</Argument>
+		<Argument name="Percent">500</Argument>
 	</Modifier>
 </GameEffects>

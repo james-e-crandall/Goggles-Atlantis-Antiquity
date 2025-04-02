@@ -2,10 +2,10 @@
 <Database>
 	<EnglishText>
 		<Row Tag="LOC_IMPROVEMENT_ATLANTIS_VOLCANO_NAME">
-			<Text>Hidden Valcano Lair</Text>
+			<Text>Caldera </Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_ATLANTIS_VOLCANO_DESCRIPTION">
-			<Text>Hidden Valcano Lair</Text>
+			<Text>+4 Production</Text>
 		</Row>
 		<Row Tag="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_NAME">
 			<Text>Bellows of Hephaestus</Text>

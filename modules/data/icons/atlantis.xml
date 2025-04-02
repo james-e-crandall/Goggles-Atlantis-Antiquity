@@ -14,9 +14,21 @@
         <!-- Loadscreen -->
 
         <!-- Culture -->
+        <Row>
+            <ID>cult_atlantis</ID>
+            <Path>fs://game/goggles_civ_atlantis/icons/cult_atlantis.png</Path>
+        </Row> 
 
         <!-- UU AND UI -->
-       
-
+        <Row>
+            <ID>UNIT_WAR_CHARIOT</ID>
+            <Path>fs://game/goggles_civ_atlantis/icons/unitflag_war_chariot.png</Path>
+            <Context>DEFAULT</Context>
+        </Row>
+        <Row>
+            <ID>UNIT_WAR_CHARIOT_2</ID>
+            <Path>fs://game/goggles_civ_atlantis/icons/unitflag_war_chariot.png</Path>
+            <Context>DEFAULT</Context>
+        </Row>
     </IconDefinitions>
 </Database>
