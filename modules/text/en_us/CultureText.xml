@@ -12,7 +12,7 @@
 		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_PILLARS_OF_HERCULES_QUOTE_AUTHOR">
 			<Text>Pillars of Hercules</Text>
 		</Row>
-		<Row Tag="LOC_CIVIC_ATLANTIS_PILLARS_OF_HERCULES_NAME">
+		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_PILLARS_OF_HERCULES_NAME">
 			<Text>Pillars of Hercules</Text>
 		</Row>
 
@@ -21,39 +21,48 @@
 			<Text>Critias</Text>
 		</Row>
 		<Row Tag="LOC_TRADITION_ATLANTIS_CRITIAS_DESCRIPTION">
-			<Text>Critias Description</Text>
+			<Text>+1 Gold per Specialist</Text>
 		</Row>
 
 		<!-- NODE_CIVIC_AQ_ATLANTIS_ORICALICUM -->
-		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_ORICALICUM_QUOTE">
-			<Text>Oricalicum</Text>
+		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_HUNT_OF_THE_BULLS_QUOTE">
+			<Text>Hunt of the Bulls q</Text>
 		</Row>
-		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_ORICALICUM_QUOTE_AUTHOR">
-			<Text>Oricalicum</Text>
+		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_HUNT_OF_THE_BULLS_QUOTE_AUTHOR">
+			<Text>Hunt of the Bulls qa</Text>
 		</Row>
-		<Row Tag="LOC_CIVIC_ATLANTIS_ORICALICUM_NAME">
-			<Text>Oricalicum</Text>
+		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_HUNT_OF_THE_BULLS_NAME">
+			<Text>Hunt of the Bulls</Text>
 		</Row>
+
+		<Row Tag="LOC_CIVIC_AQ_ATLANTIS_HUNT_OF_THE_BULLS_DESCRIPTION">
+			<Text>+1 Gold per urban population during a golden age.</Text>
+		</Row>
+		
 
 		<!-- LOC_CIVIC_AQ_ATLANTIS_LAWS_OF_THE_TEN_KINGS_QUOTE -->
 		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_LAWS_OF_THE_TEN_KINGS_QUOTE">
-			<Text>Laws of the Ten Kings</Text>
+			<Text>Laws of the Ten Kings q</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_LAWS_OF_THE_TEN_KINGS_QUOTE_AUTHOR">
+			<Text>Laws of the Ten Kings qa</Text>
+		</Row>
+		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_LAWS_OF_THE_TEN_KINGS_NAME">
 			<Text>Laws of the Ten Kings</Text>
 		</Row>
-		<Row Tag="LOC_CIVIC_ATLANTIS_LAWS_OF_THE_TEN_KINGS_NAME">
-			<Text>Laws of the Ten Kings</Text>
+
+		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_LAWS_OF_THE_TEN_KINGS_DESCRIPTION">
+			<Text>+1 Culture per urban population during a golden age.</Text>
 		</Row>
 
 		<!-- LOC_CIVIC_ATLANTIS_FAIREST_OF_ALL_PLAINS_QUOTE -->
 		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_FAIREST_OF_ALL_PLAINS_QUOTE">
-			<Text>Fairest of All Plains</Text>
+			<Text>Fairest of All Plains q</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_FAIREST_OF_ALL_PLAINS_QUOTE_AUTHOR">
-			<Text>Fairest of All Plains</Text>
+			<Text>Fairest of All Plains qa</Text>
 		</Row>
-		<Row Tag="LOC_CIVIC_ATLANTIS_FAIREST_OF_ALL_PLAINS_NAME">
+		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_FAIREST_OF_ALL_PLAINS_NAME">
 			<Text>Fairest of All Plains</Text>
 		</Row>
 		<!-- traditions -->
@@ -61,7 +70,7 @@
 			<Text>Sixth Portion</Text>
 		</Row>
 		<Row Tag="LOC_TRADITION_ATLANTIS_SIXTH_PORTION_DESCRIPTION">
-			<Text>Sixth Portion Description</Text>
+			<Text>+2 Culture on Gold buildings</Text>
 		</Row>
 
 	</EnglishText>

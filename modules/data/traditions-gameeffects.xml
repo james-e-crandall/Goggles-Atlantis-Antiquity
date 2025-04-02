@@ -8,13 +8,10 @@
 	</Modifier>
 
 	<!-- Sixth portion: Settlements receive increased Gold based on Urban Population  -->
-	<Modifier id="TRADITION_ATLANTIS_SIXTH_PORTION_MOD" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD_PER_POPULATION">
-		<Argument name="YieldType">YIELD_GOLD</Argument>
-		<Argument name="Amount">1</Argument>
-		<Argument name="Divisor">2</Argument>
-		<Argument name="Urban">true</Argument>
-		<Argument name="Rural">false</Argument>
-		<Argument name="Tooltip">LOC_TRADITION_ATLANTIS_SIXTH_PORTION_NAME</Argument>
+	<Modifier id="TRADITION_ATLANTIS_SIXTH_PORTION_MOD" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_ADJUST_CONSTRUCTIBLE_YIELD">
+		<Argument name="Tag">GOLD</Argument>
+		<Argument name="YieldType">YIELD_CULTURE</Argument>
+		<Argument name="Amount">2</Argument>
 		<String context="Description">LOC_TRADITION_ATLANTIS_SIXTH_PORTION_DESCRIPTION</String>
 	</Modifier>
 

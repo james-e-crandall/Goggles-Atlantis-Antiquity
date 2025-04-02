@@ -5,7 +5,7 @@
 			<Text>Temple of Poseidon</Text>
 		</Row>
 		<Row Tag="LOC_WONDER_TEMPLE_OF_POSEIDON_DESCRIPTION">
-			<Text>Temple of Poseidon. {LOC_WONDER_TEMPLE_OF_POSEIDON_TOOLTIP}</Text>
+			<Text>{LOC_WONDER_TEMPLE_OF_POSEIDON_TOOLTIP}</Text>
 		</Row>
 		<Row Tag="LOC_WONDER_TEMPLE_OF_POSEIDON_TOOLTIP">
 			<Text>Naval Units Heals for a set amount after defeating an enemy Unit. Ageless. Must be built on the coast.</Text>

@@ -6,15 +6,22 @@
 		</Row>
 
 		<Row Tag="LOC_CIVILIZATION_ATLANTIS_FULLNAME">
-			<Text>Atlantis Fullname</Text>
+			<Text>Atlantis Antiquity Age Civilization</Text>
 		</Row>
 
+		<!--Civilization Adjectives-->
+		<Row Tag="LOC_CIVILIZATION_SATLANTIS_ADJECTIVE">
+			<Text>Atlantian</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+
+		<!-- Ability-->
 		<Row Tag="LOC_TRAIT_ATLANTIS_ABILITY_NAME">
-			<Text>Atlantis Ability</Text>
+			<Text>Oricalicum</Text>
 		</Row>
 
 		<Row Tag="LOC_TRAIT_ATLANTIS_ABILITY_DESCRIPTION">
-			<Text>Atlantis Ability Description</Text>
+			<Text>Atlantis is able to work Volcano Tiles</Text>
 		</Row>
 
 	</EnglishText>
