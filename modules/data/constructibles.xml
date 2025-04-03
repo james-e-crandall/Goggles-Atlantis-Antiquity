@@ -61,16 +61,15 @@
 	</ConstructibleModifiers>
 	<UniqueQuarters>
 		<Row UniqueQuarterType="QUARTER_BELLOWS_OF_HEPHAESTUS" BuildingType1="BUILDING_BRICKYARD" BuildingType2="BUILDING_SAW_PIT" Name="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_NAME" Description="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_DESCRIPTION" Tooltip="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_TOOLTIP" TraitType="TRAIT_ATLANTIS"/>
-		<Row UniqueQuarterType="QUARTER_SANCTUARY_OF_THOTH" BuildingType1="BUILDING_ALTAR" BuildingType2="BUILDING_GRANARY" Name="LOC_QUARTER_SANCTUARY_OF_THOTH_NAME" Description="LOC_QUARTER_SANCTUARY_OF_THOTH_DESCRIPTION" Tooltip="LOC_QUARTER_SANCTUARY_OF_THOTH_TOOLTIP" TraitType="TRAIT_ATLANTIS"/>
 	</UniqueQuarters>
 	<GameModifiers>
 		<Row ModifierId="MOD_BELLOWS_OF_HEPHAESTUS_URBAN_PRODUCTION"/>
-		<Row ModifierId="MOD_QUARTER_SANCTUARY_OF_THOTH_RURAL_CULTURE"/>
+		<Row ModifierId="MOD_BELLOWS_OF_HEPHAESTUS_CAPITAL_RESOURCE_CAP"/>
 	</GameModifiers>
 	<!-- These are listed here so the AI can evalutate Unique Quarters. They do not have any effects on the game for human players. -->
 	<UniqueQuarterModifiers>
 		<Row UniqueQuarterType="QUARTER_BELLOWS_OF_HEPHAESTUS" ModifierId="MOD_BELLOWS_OF_HEPHAESTUS_URBAN_PRODUCTION"/>
-		<Row UniqueQuarterType="QUARTER_BELLOWS_OF_HEPHAESTUS" ModifierId="MOD_QUARTER_SANCTUARY_OF_THOTH_RURAL_CULTURE"/>
+		<Row UniqueQuarterType="QUARTER_BELLOWS_OF_HEPHAESTUS" ModifierId="MOD_BELLOWS_OF_HEPHAESTUS_CAPITAL_RESOURCE_CAP"/>
 	</UniqueQuarterModifiers>
 	<Constructible_Advisories>
 	</Constructible_Advisories>

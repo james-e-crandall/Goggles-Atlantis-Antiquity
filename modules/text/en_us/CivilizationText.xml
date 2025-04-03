@@ -6,7 +6,7 @@
 		</Row>
 
 		<Row Tag="LOC_CIVILIZATION_ATLANTIS_FULLNAME">
-			<Text>Atlantis Antiquity Age Civilization</Text>
+			<Text>Atlantian Empire</Text>
 		</Row>
 
 		<Row Tag="LOC_MOD_CODE_OF_LAWS_REVEAL_CIV_CULTURE_TREE_ATLANTIS_DESCRIPTION">
@@ -24,7 +24,7 @@
 			<Text>Fairest of All Plains</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_ATLANTIS_ABILITY_DESCRIPTION">
-			<Text>[LIST][LI]Can only have 1 City. Towns cannot use [B]Convert to City[/B].[LI]Able to work [B]Volcano[/B] Tiles.[LI]+2 Resources in the [B]Capital[/B].[LI][B]+30%[icon:YIELD_PRODUCTION] Production [/B]towards constructing [B]Temple of Posidon[/B].[/LIST]</Text>
+			<Text>[LIST][LI]Can only have 1 City. Towns cannot use [B]Convert to City[/B].[LI]Able to work [B]Volcano[/B] Tiles.[LI][B]+30%[icon:YIELD_PRODUCTION] Production [/B]towards constructing [B]Temple of Posidon[/B].[/LIST]</Text>
 		</Row>
 
 	</EnglishText>

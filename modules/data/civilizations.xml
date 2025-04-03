@@ -17,10 +17,7 @@
 	</Traits>
 	<TraitModifiers>
 		<Row TraitType="TRAIT_ATLANTIS_ABILITY" ModifierId="MOD_ATLANTIS_FORBID_CITIES_FROM_TOWNS"/>
-		<Row TraitType="TRAIT_ATLANTIS_ABILITY" ModifierId="MOD_ATLANTIS_CAPITAL_RESOURCE_CAP"/>
-		
 	</TraitModifiers>
-
 	<CivilizationTraits>
 		<Row CivilizationType="CIVILIZATION_ATLANTIS" TraitType="TRAIT_ANTIQUITY_CIV"/>
 		<Row CivilizationType="CIVILIZATION_ATLANTIS" TraitType="TRAIT_ATLANTIS"/>
