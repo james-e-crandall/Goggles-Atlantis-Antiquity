@@ -16,7 +16,9 @@
 		<Row TraitType="TRAIT_ATLANTIS_ABILITY" Name="LOC_TRAIT_ATLANTIS_ABILITY_NAME" Description="LOC_TRAIT_ATLANTIS_ABILITY_DESCRIPTION" InternalOnly="true"/>
 	</Traits>
 	<TraitModifiers>
-
+		<Row TraitType="TRAIT_ATLANTIS_ABILITY" ModifierId="MOD_ATLANTIS_FORBID_CITIES_FROM_TOWNS"/>
+		<Row TraitType="TRAIT_ATLANTIS_ABILITY" ModifierId="MOD_ATLANTIS_CAPITAL_RESOURCE_CAP"/>
+		
 	</TraitModifiers>
 
 	<CivilizationTraits>

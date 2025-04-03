@@ -21,50 +21,51 @@
 			<Text>Critias</Text>
 		</Row>
 		<Row Tag="LOC_TRADITION_ATLANTIS_CRITIAS_DESCRIPTION">
-			<Text>Increased Gold on Urban Districts in Cities.</Text>
+			<Text>Increased [icon:YIELD_GOLD] Gold from Urban Center Towns.</Text>
 		</Row>
 
 		<!-- NODE_CIVIC_AQ_ATLANTIS_ORICALICUM -->
 		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_HUNT_OF_THE_BULLS_QUOTE">
-			<Text>Hunt of the Bulls q</Text>
+			<Text>..hunted after the bulls with staves and nooses but with no weapon of iron..</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_HUNT_OF_THE_BULLS_QUOTE_AUTHOR">
-			<Text>Hunt of the Bulls qa</Text>
+			<Text>Plato</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_HUNT_OF_THE_BULLS_NAME">
 			<Text>Hunt of the Bulls</Text>
 		</Row>
 
 		<Row Tag="LOC_CIVIC_AQ_ATLANTIS_HUNT_OF_THE_BULLS_DESCRIPTION">
-			<Text>Increased Influence on Urban Districts in Cities during a golden age.</Text>
+			<Text>Increased [icon:YIELD_GOLD] Gold on Rural Districts in Cities during a golden age.</Text>
 		</Row>
 		
 
 		<!-- LOC_CIVIC_AQ_ATLANTIS_LAWS_OF_THE_TEN_KINGS_QUOTE -->
 		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_LAWS_OF_THE_TEN_KINGS_QUOTE">
-			<Text>Laws of the Ten Kings q</Text>
+			<Text>...and that the king had no authority to put to death any of his brother-princes save with the consent of more than half of the ten.</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_LAWS_OF_THE_TEN_KINGS_QUOTE_AUTHOR">
-			<Text>Laws of the Ten Kings qa</Text>
+			<Text>Plato</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_LAWS_OF_THE_TEN_KINGS_NAME">
 			<Text>Laws of the Ten Kings</Text>
 		</Row>
 
 		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_LAWS_OF_THE_TEN_KINGS_DESCRIPTION">
-			<Text>Increased Culture on Urban Districts in Cities during a golden age.</Text>
+			<Text>Increased [icon:YIELD_CULTURE] Culture on Urban Districts in Cities during a golden age.</Text>
 		</Row>
 
-		<!-- LOC_CIVIC_ATLANTIS_FAIREST_OF_ALL_PLAINS_QUOTE -->
-		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_FAIREST_OF_ALL_PLAINS_QUOTE">
-			<Text>Fairest of All Plains q</Text>
+		<!-- LOC_NODE_CIVIC_AQ_ATLANTIS_ORICALICUM_QUOTE -->
+		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_ORICALICUM_QUOTE">
+			<Text>orikhalkon (orichalc) (mountain-copper) which sparkled like fire.</Text>
 		</Row>
-		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_FAIREST_OF_ALL_PLAINS_QUOTE_AUTHOR">
-			<Text>Fairest of All Plains qa</Text>
+		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_ORICALICUM_QUOTE_AUTHOR">
+			<Text>Plato</Text>
 		</Row>
-		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_FAIREST_OF_ALL_PLAINS_NAME">
-			<Text>Fairest of All Plains</Text>
+		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_ORICALICUM_NAME">
+			<Text>Oricalicum</Text>
 		</Row>
+		
 		<!-- traditions -->
 		<Row Tag="LOC_TRADITION_ATLANTIS_SIXTH_PORTION_NAME">
 			<Text>Sixth Portion</Text>
@@ -73,10 +74,10 @@
 			<Text>{LOC_TRADITION_ATLANTIS_SIXTH_PORTION_COMBAT_DESCRIPTION}{LOC_TRADITION_ATLANTIS_SIXTH_PORTION_MAINTAIN_DESCRIPTION}</Text>
 		</Row>
 		<Row Tag="LOC_TRADITION_ATLANTIS_SIXTH_PORTION_COMBAT_DESCRIPTION">
-			<Text>+5 Combat Strength for Cavalry.</Text>
+			<Text>Increased healing for Cavalry.</Text>
 		</Row>
 		<Row Tag="LOC_TRADITION_ATLANTIS_SIXTH_PORTION_MAINTAIN_DESCRIPTION">
-			<Text>+200%[icon:YIELD_GOLD] Gold to maintain Cavalry  Military Units.</Text>
+			<Text>+100%[icon:YIELD_GOLD] Gold to maintain Cavalry  Military Units.</Text>
 		</Row>
 
 	</EnglishText>

@@ -12,7 +12,18 @@
             <Path>fs://game/goggles_civ_atlantis/icons/civ_sym_atlantis</Path>
 		</Row>
         <!-- Loadscreen -->
-
+		<Row>
+			<ID>CIVILIZATION_ATLANTIS</ID>
+			<Context>BACKGROUND</Context>
+			<Path>fs://game/goggles_civ_atlantis/icons/lsbg_atlantis_1080</Path>
+			<IconSize>1080</IconSize>
+		</Row>
+		<Row>
+			<ID>CIVILIZATION_ATLANTIS</ID>
+			<Context>BACKGROUND</Context>
+			<Path>fs://game/goggles_civ_atlantis/icons/lsbg_atlantis_720</Path>
+			<IconSize>720</IconSize>
+		</Row>
         <!-- Culture -->
         <Row>
             <ID>cult_atlantis</ID>

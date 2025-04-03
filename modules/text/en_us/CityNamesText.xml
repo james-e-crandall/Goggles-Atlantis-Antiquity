@@ -3,70 +3,70 @@
 	<EnglishText>
 		<!--ATLANTIS-->
 		<Row Tag="LOC_CITY_NAME_ATLANTIS1">
-			<Text>Manching </Text>
+			<Text>Atlas</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ATLANTIS2">
-			<Text>Basilea</Text>
+			<Text>Evenor</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ATLANTIS3">
-			<Text>Vindonissa</Text>
+			<Text>Leucippe</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ATLANTIS4">
-			<Text>Alcimoennis</Text>
+			<Text>Cleito</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ATLANTIS5">
-			<Text>Altenburg-Rheinau</Text>
+			<Text>Gades</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ATLANTIS6">
-			<Text>Donnersberg</Text>
+			<Text>Ampheres</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ATLANTIS7">
-			<Text>Dünsberg</Text>
+			<Text>Evaemon</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ATLANTIS8">
-			<Text>Finsterlohr</Text>
+			<Text>Azaes</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ATLANTIS9">
-			<Text>Creglingen</Text>
+			<Text>Diaprepes</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ATLANTIS10">
-			<Text>Heidengraben</Text>
+			<Text>Baiae</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ATLANTIS11">
-			<Text>Hohenasperg</Text>
+			<Text>Thonis-Heracleion</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ATLANTIS12">
-			<Text>Glauberg</Text>
+			<Text>Helike</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ATLANTIS13">
-			<Text>Martberg</Text>
+			<Text>Ġgantija</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ATLANTIS14">
-			<Text>Milseburg</Text>
+			<Text>Ħaġar Qim</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ATLANTIS15">
-			<Text>Staffelberg</Text>
+			<Text>Mnajdra</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ATLANTIS16">
-			<Text>Steinburg</Text>
+			<Text>Evonium</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ATLANTIS17">
-			<Text>Glauberg</Text>
+			<Text>Larissa</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ATLANTIS18">
-			<Text>Hirschlanden</Text>
+			<Text>Zadracarta</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ATLANTIS19">
-			<Text>Hochdorf</Text>
+			<Text>Roanoke Colony</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ATLANTIS20">
-			<Text>Hohenasperg</Text>
+			<Text>Troy</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ATLANTIS21">
-			<Text>Heuneburg</Text>
+			<Text>Chaméni Póli</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ATLANTIS22">
-			<Text>Ubiorum</Text>
+			<Text>Città perduta</Text>
 		</Row>
 	</EnglishText>
 </Database>

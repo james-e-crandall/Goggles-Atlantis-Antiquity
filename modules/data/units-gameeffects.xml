@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameEffects xmlns="GameEffects">
 	<!-- Units  -->
-	<Modifier id="BYEOLMUBAN_MOD_COMBAT_VS_CAVALRY" collection="COLLECTION_UNIT_COMBAT" effect="EFFECT_ADJUST_UNIT_STRENGTH_MODIFIER">
-		<Argument name="Amount">3</Argument>
-		<String context="Preview">LOC_TRADITION_ATLANTIS_SIXTH_PORTION_MOD_NAME</String>
+	<Modifier id="ABILITY_SIXTH_PORTION_MOD" collection="COLLECTION_OWNER" effect="EFFECT_UNIT_ADJUST_HEAL_PER_TURN">
+		<Argument name="Amount">15</Argument>
 	</Modifier>
 
 </GameEffects>

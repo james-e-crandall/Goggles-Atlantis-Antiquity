@@ -20,4 +20,25 @@
 		<Argument name="Amount">1</Argument>
 	</Modifier>
 
+	<Modifier id="MOD_QUARTER_SANCTUARY_OF_THOTH_RURAL_CULTURE" collection="COLLECTION_ALL_CITIES" effect="EFFECT_ATTACH_MODIFIERS">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_CITY_HAS_UNIQUE_QUARTER">
+				<Argument name="UniqueQuarterType">QUARTER_SANCTUARY_OF_THOTH</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="ModifierId">ATTACH_MOD_QUARTER_SANCTUARY_OF_THOTH_RURAL_CULTURE</Argument>
+		<String context="Description">LOC_QUARTER_SANCTUARY_OF_THOTH_DESCRIPTION</String>
+	</Modifier>
+	<Modifier id="ATTACH_MOD_QUARTER_SANCTUARY_OF_THOTH_RURAL_CULTURE" collection="COLLECTION_CITY_PLOT_YIELDS" effect="EFFECT_PLOT_ADJUST_YIELD">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_PLOT_DISTRICT_CLASS">
+				<Argument name="DistrictClass">RURAL</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="YieldType">YIELD_CULTURE</Argument>
+		<Argument name="Amount">1</Argument>
+	</Modifier>
+
+
+
 </GameEffects>

@@ -113,6 +113,7 @@
 					<Item>data/units-gameeffects.xml</Item>
 					<Item>data/units.xml</Item>
 					<Item>data/progression-trees-tech-common.xml</Item>
+					<Item>data/greatworks.xml</Item>
 				</UpdateDatabase>
 				<UpdateText>
 					<Item>text/en_us/LoadingText.xml</Item>

@@ -3,64 +3,64 @@
 	<EnglishText>
 		<!--ATLANTIS-->
 		<Row Tag="LOC_CITIZEN_ATLANTIS_MALE_1">
-			<Text>Adalberht</Text>
+			<Text>Achilles</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ATLANTIS_MALE_2">
-			<Text>Badurad</Text>
+			<Text>Odysseus</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ATLANTIS_MALE_3">
-			<Text>Chlodochar </Text>
+			<Text>Agamemnon </Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ATLANTIS_MALE_4">
-			<Text>Dagobert</Text>
+			<Text>Hector</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ATLANTIS_MALE_5">
-			<Text>Eberwin</Text>
+			<Text>Patroclus</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ATLANTIS_MALE_6">
-			<Text>Folcmar</Text>
+			<Text>Priam</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ATLANTIS_MALE_7">
-			<Text>Gautbert</Text>
+			<Text>Menelaus</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ATLANTIS_MALE_8">
-			<Text>Hadubert</Text>
+			<Text>Paris</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ATLANTIS_MALE_9">
-			<Text>Ingulf</Text>
+			<Text>Aeneas</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ATLANTIS_MALE_10">
-			<Text>Kunibert</Text>
+			<Text>Nestor</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ATLANTIS_FEMALE_1">
-			<Text>Adalgard</Text>
+			<Text>Briseis</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ATLANTIS_FEMALE_2">
-			<Text>Baduhilt </Text>
+			<Text>Andromache</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ATLANTIS_FEMALE_3">
-			<Text>Chlodechilda</Text>
+			<Text>Aphrodite</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ATLANTIS_FEMALE_4">
-			<Text>Clothildis</Text>
+			<Text>Chryseis</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ATLANTIS_FEMALE_5">
-			<Text>Ermelinde</Text>
+			<Text>Astyanax</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ATLANTIS_FEMALE_6">
-			<Text>Farohildis</Text>
+			<Text>Deiphobus</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ATLANTIS_FEMALE_7">
-			<Text>Geredrudis</Text>
+			<Text>Eris</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ATLANTIS_FEMALE_8">
-			<Text>Hadewidis</Text>
+			<Text>Amazons</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ATLANTIS_FEMALE_9">
-			<Text>Leutgard</Text>
+			<Text>Helen</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ATLANTIS_FEMALE_10">
-			<Text>Odilia</Text>
+			<Text>Phoenix</Text>
 		</Row>
 	</EnglishText>
 </Database>
