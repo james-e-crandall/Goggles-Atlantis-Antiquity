@@ -22,6 +22,10 @@
 		<Criteria id="exploration-age-current">
 			<AgeInUse>AGE_EXPLORATION</AgeInUse>
 		</Criteria>
+		<Criteria id="exploration-age-persist" any="true">
+			<AgeInUse>AGE_EXPLORATION</AgeInUse>
+			<AgeInUse>AGE_MODERN</AgeInUse>
+		</Criteria>
 		<Criteria id="modern-age-current">
 			<AgeInUse>AGE_MODERN</AgeInUse>
 		</Criteria>
@@ -73,7 +77,6 @@
 				<UpdateDatabase>
 					<Item>data/civilizations-legacy.xml</Item>
 					<Item>data/constructibles.xml</Item>
-					<Item>data/constructibles-gameeffects.xml</Item>
 					<Item>data/traditions-gameeffects.xml</Item>
 					<Item>data/traditions.xml</Item>
 					<Item>data/wonders-gameeffects.xml</Item>
@@ -101,6 +104,7 @@
 				<UpdateArt>
 				</UpdateArt>
 				<UpdateDatabase>
+					<Item>data/constructibles-no-persist-gameeffects.xml</Item>
 					<Item>data/ai-antiquity.xml</Item>
 					<Item>data/unlocks-antiquity.xml</Item>
 					<Item>data/citizen-names.xml</Item>
@@ -121,6 +125,23 @@
                 <UpdateVisualRemaps>
                     <Item>data/visual-remap.xml</Item>
                 </UpdateVisualRemaps>
+			</Actions>
+		</ActionGroup>
+		<ActionGroup id="age-antiquity-persist-atlantis" scope="game" criteria="exploration-age-persist">
+			<Actions>
+				<UpdateArt>
+				</UpdateArt>
+				<UpdateDatabase>
+					<Item>data/constructibles-gameeffects.xml</Item>
+				</UpdateDatabase>
+                <ImportFiles>
+					
+                </ImportFiles>
+                <UpdateIcons>
+
+                </UpdateIcons>
+				<UpdateText>
+				</UpdateText>
 			</Actions>
 		</ActionGroup>
 		<ActionGroup id="shell-atlantis" scope="shell" criteria="always">
