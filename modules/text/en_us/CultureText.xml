@@ -7,10 +7,10 @@
 
 		<!-- NODE_CIVIC_AQ_ATLANTIS_PILLARS_OF_HERCULES -->
 		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_PILLARS_OF_HERCULES_QUOTE">
-			<Text>Pillars of Hercules</Text>
+			<Text>This power came forth out of the Atlantic Ocean, for in those days the Atlantic was navigable; and there was an island situated in front of the straits which are by you called the Pillars of Heracles; the island was larger than Libya and Asia put together, and was the way to other islands, and from these you might pass...</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_PILLARS_OF_HERCULES_QUOTE_AUTHOR">
-			<Text>Pillars of Hercules</Text>
+			<Text>Plato</Text>
 		</Row>
 		<Row Tag="LOC_NODE_CIVIC_AQ_ATLANTIS_PILLARS_OF_HERCULES_NAME">
 			<Text>Pillars of Hercules</Text>
