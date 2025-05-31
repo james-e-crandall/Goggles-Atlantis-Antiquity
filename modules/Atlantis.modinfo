@@ -100,7 +100,6 @@
                 </UpdateIcons>
 				<UpdateText>
 					<Item>text/en_us/CityNamesText.xml</Item>
-					<Item>text/en_us/ConstructibleText.xml</Item>
 					<Item>text/en_us/CitizenNamesText.xml</Item>
 					<Item>text/en_us/CivilizationText.xml</Item>
 					<Item>text/en_us/CultureText.xml</Item>
@@ -130,6 +129,7 @@
 					<Item>data/greatworks.xml</Item>
 				</UpdateDatabase>
 				<UpdateText>
+					<Item>text/en_us/ConstructibleNoPersistText.xml</Item>
 					<Item>text/en_us/LoadingText.xml</Item>
 				</UpdateText>
                 <UpdateVisualRemaps>
@@ -151,6 +151,7 @@
 
                 </UpdateIcons>
 				<UpdateText>
+					<Item>text/en_us/ConstructibleText.xml</Item>
 				</UpdateText>
 			</Actions>
 		</ActionGroup>

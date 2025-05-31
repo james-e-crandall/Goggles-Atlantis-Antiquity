@@ -24,7 +24,8 @@
 		<Row RequirementSetId="REQSET_CIV_IS_ATLANTIS" RequirementId="REQ_CIV_IS_ATLANTIS"/>
 	</RequirementSetRequirements>
 	<UnlockRequirements>
-
+		<Row UnlockType="UNLOCK_CIVILIZATION_HAWAII" RequirementSetId="REQSET_CIV_IS_ATLANTIS" Description="LOC_UNLOCK_PLAY_AS_ATLANTIS_DESCRIPTION" Tooltip="LOC_UNLOCK_PLAY_AS_ATLANTIS_HAWAII_TOOLTIP"/>
+		
 	</UnlockRequirements>
 	<UnlockConfigurationValues>
 		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_ATLANTIS" ConfigurationValue="CIVILIZATION_ATLANTIS"/>

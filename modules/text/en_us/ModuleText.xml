@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Database>
 	<EnglishText>
-		<Row Tag="LOC_MODULE_GERMANIA_NAME">
-			<Text>Germania</Text>
+		<Row Tag="LOC_MODULE_ATLANTIS_NAME">
+			<Text>Atlantis</Text>
 		</Row>
-		<Row Tag="LOC_MODULE_GERMANIA_DESCRIPTION">
-			<Text>Germania Antiquity Age</Text>
+		<Row Tag="LOC_MODULE_ATLANTIS_DESCRIPTION">
+			<Text>Atlantis Antiquity Age</Text>
 		</Row>
 		<Row Tag="LOC_AUTHORS_JEC">
 			<Text>The_Goggles_Do_Nothing</Text>

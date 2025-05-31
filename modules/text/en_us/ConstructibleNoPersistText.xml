@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!-- IMPROVEMENTS -->
+		<Row Tag="LOC_IMPROVEMENT_ATLANTIS_VOLCANO_NAME">
+			<Text>Caldera</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ATLANTIS_VOLCANO_DESCRIPTION">
+			<Text>+2 [icon:YIELD_CULTURE]Culture</Text>
+		</Row>
+		<!-- QUARTER -->
+		<Row Tag="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_NAME">
+			<Text>Bellows of Hephaestus</Text>
+		</Row>
+		<Row Tag="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_DESCRIPTION">
+			<Text>+1 [icon:YIELD_PRODUCTION]Production per Urban District. +1 Resource in the Capital.</Text>
+		</Row>
+		<Row Tag="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_TOOLTIP">
+			<Text>+1 [icon:YIELD_PRODUCTION]Production per Urban District. +1 Resource in the Capital.</Text>
+		</Row>
+
+	</EnglishText>
+</Database>
