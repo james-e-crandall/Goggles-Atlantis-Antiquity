@@ -72,6 +72,7 @@
 					<Item>icons/cult_atlantis.png</Item>
 					<Item>icons/unitflag_war_chariot.png</Item>
 					<Item>icons/wondericon_temple_of_poseidon.png</Item>
+					<Item>icons/buildicon_forge_of_hephaestus.png</Item>
                 </ImportFiles>
                 <UpdateIcons>
                     <Item>data/icons/atlantis.xml</Item>
@@ -113,6 +114,7 @@
 				<UpdateArt>
 				</UpdateArt>
 				<UpdateDatabase>
+					
 					<Item>data/constructibles-no-persist-gameeffects.xml</Item>
 					<Item>data/ai-antiquity.xml</Item>
 					<Item>data/unlocks-antiquity.xml</Item>
@@ -170,13 +172,14 @@
 					<Item>icons/cult_atlantis.png</Item>
 					<Item>icons/unitflag_war_chariot.png</Item>
 					<Item>icons/wondericon_temple_of_poseidon.png</Item>
+					<Item>icons/buildicon_forge_of_hephaestus.png</Item>
                 </ImportFiles>
                 <UpdateIcons>
                     <Item>data/icons/atlantis.xml</Item>
                 </UpdateIcons>
 				<UpdateText>
 					<Item>text/en_us/CivilizationText.xml</Item>
-					<Item>text/en_us/ConstructibleText.xml</Item>
+					<Item>text/en_us/ConstructibleNoPersistText.xml</Item>
 					<Item>text/en_us/UnitText.xml</Item>
 					<Item>text/en_us/CultureText.xml</Item>
 					<Item>text/en_us/UnlockText.xml</Item>

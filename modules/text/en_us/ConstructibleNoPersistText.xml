@@ -8,15 +8,25 @@
 		<Row Tag="LOC_IMPROVEMENT_ATLANTIS_VOLCANO_DESCRIPTION">
 			<Text>+2 [icon:YIELD_CULTURE]Culture</Text>
 		</Row>
+		<!-- BUILDING -->
+		<Row Tag="LOC_BUILDING_FORGE_OF_HEPHAESTUS_NAME">
+			<Text>Forge of Hephaestus</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FORGE_OF_HEPHAESTUS_DESCRIPTION">
+			<Text>+1[icon:YIELD_PRODUCTION] Production. +1[icon:YIELD_PRODUCTION] Production on Wonder Tiles, Mines with Resources, and Quarries. Warehouse Production Building. Ageless. Can be purchased in Towns.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FORGE_OF_HEPHAESTUS_TOOLTIP">
+			<Text>+1[icon:YIELD_PRODUCTION] Production on Wonder Tiles, Mines with Resources, and Quarries. Warehouse Production Building. Ageless. Buildable in all Ages. Can be purchased in Towns.</Text>
+		</Row>
 		<!-- QUARTER -->
 		<Row Tag="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_NAME">
 			<Text>Bellows of Hephaestus</Text>
 		</Row>
 		<Row Tag="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_DESCRIPTION">
-			<Text>+1 [icon:YIELD_PRODUCTION]Production per Urban District. +1 Resource in the Capital.</Text>
+			<Text>Created by constructing the Forge of Hephaestus and Saw Pit in the same District. +1 [icon:YIELD_PRODUCTION]Production per Urban District. +1 Resource Capacity in the Capital.</Text>
 		</Row>
 		<Row Tag="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_TOOLTIP">
-			<Text>+1 [icon:YIELD_PRODUCTION]Production per Urban District. +1 Resource in the Capital.</Text>
+			<Text>+1 [icon:YIELD_PRODUCTION]Production per Urban District. +1 Resource Capacity in the Capital.</Text>
 		</Row>
 
 	</EnglishText>

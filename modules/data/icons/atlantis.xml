@@ -34,8 +34,14 @@
 			<ID>WONDER_TEMPLE_OF_POSEIDON</ID>
 			<Path>fs://game/goggles_civ_germania/icons/wondericon_temple_of_poseidon.png</Path>
 		</Row>
-
+        <!-- Buildings -->
+         <Row>
+            <ID>BUILDING_FORGE_OF_HEPHAESTUS</ID>
+            <Path>fs://game/goggles_civ_germania/icons/buildicon_forge_of_hephaestus.png</Path>
+            <Context>DEFAULT</Context>
+        </Row>
         <!-- UU AND UI -->
+
         <Row>
             <ID>UNIT_WAR_CHARIOT</ID>
             <Path>fs://game/goggles_civ_atlantis/icons/unitflag_war_chariot.png</Path>
