@@ -32,6 +32,7 @@
 		
 	</LeaderCivilizationBias>
 	<CivilizationUnlocks>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS" AgeDomain="StandardAges" AgeType="AGE_EXPLORATION" Type="CIVILIZATION_HAWAII" Kind="KIND_CIVILIZATION" Name="LOC_CIVILIZATION_HAWAII_NAME" Description="LOC_CIVILIZATION_HAWAII_DESCRIPTION" Icon="CIVILIZATION_HAWAII"/>
 		
 	</CivilizationUnlocks>
 	<LeaderUnlocks>

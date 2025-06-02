@@ -53,24 +53,23 @@
 		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
 	</Constructible_YieldChanges>
 	<Constructible_Maintenances>
-		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS" YieldType="YIELD_GOLD" Amount="0"/>
-		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS" YieldType="YIELD_HAPPINESS" Amount="0"/>
+		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS" YieldType="YIELD_GOLD" Amount="1"/>
+		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS" YieldType="YIELD_HAPPINESS" Amount="1"/>
 	</Constructible_Maintenances>
 	<Constructible_Adjacencies>
+		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS" YieldChangeId="ForgeOfHephaestusMineResourceProduction"/>
+		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS" YieldChangeId="ForgeOfHephaestusQuarryduction"/>
 	</Constructible_Adjacencies>
 	<Adjacency_YieldChanges>
+		<Row ID="ForgeOfHephaestusMineResourceProduction" YieldType="YIELD_PRODUCTION" YieldChange="1" TilesRequired="1" AdjacentConstructible="IMPROVEMENT_MINE_RESOURCE"/>
+		<Row ID="ForgeOfHephaestusQuarryduction" YieldType="YIELD_PRODUCTION" YieldChange="1" TilesRequired="1" AdjacentConstructible="IMPROVEMENT_QUARRY"/>
 	</Adjacency_YieldChanges>
 	<Constructible_WarehouseYields>
-		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS" YieldChangeId="BrickyardMineResourceProduction"/>
-		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS" YieldChangeId="BrickyardQuarryProduction"/>
-		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS" YieldChangeId="ForgeOfHephaestusExpeditionProduction"/>
 	</Constructible_WarehouseYields>
 	<Warehouse_YieldChanges>
-		<Row ID="ForgeOfHephaestusMineResourceProduction" Age="AGE_ANTIQUITY" YieldType="YIELD_PRODUCTION" YieldChange="1" ConstructibleInCity="IMPROVEMENT_MINE_RESOURCE"/>
-		<Row ID="ForgeOfHephaestusQuarryProduction" Age="AGE_ANTIQUITY" YieldType="YIELD_PRODUCTION" YieldChange="1" ConstructibleInCity="IMPROVEMENT_QUARRY"/>
-		<Row ID="ForgeOfHephaestusExpeditionProduction" Age="AGE_ANTIQUITY" YieldType="YIELD_PRODUCTION" YieldChange="1" ConstructibleInCity="IMPROVEMENT_EXPEDITION_BASE"/>
  	</Warehouse_YieldChanges>
 	<Constructible_WildcardAdjacencies>
+
 	</Constructible_WildcardAdjacencies>
 	<Constructible_Logistics>
 	</Constructible_Logistics>
