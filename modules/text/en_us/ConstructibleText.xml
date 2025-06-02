@@ -27,7 +27,7 @@
 			<Text>Created by constructing the Forge of Hephaestus and Saw Pit in the same District. +1 [icon:YIELD_PRODUCTION]Production on the City Center. +1 Resource Capicity in the city.</Text>
 		</Row>
 		<Row Tag="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_TOOLTIP">
-			<Text>+1 [icon:YIELD_PRODUCTION]Production on the City Center. +1 Resource Capicity in the city.</Text>
+			<Text>+1 [icon:YIELD_PRODUCTION]Production on the City Center. +1 Resource Capacity in the city.</Text>
 		</Row>
 
 	</EnglishText>
