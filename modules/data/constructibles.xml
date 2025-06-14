@@ -23,9 +23,7 @@
 	</Wonders>
 	<TypeTags>
 		<Row Type="BUILDING_FORGE_OF_HEPHAESTUS" Tag="PRODUCTION"/>
-		<Row Type="BUILDING_FORGE_OF_HEPHAESTUS" Tag="WAREHOUSE"/>
 		<Row Type="BUILDING_FORGE_OF_HEPHAESTUS" Tag="AGELESS"/>
-		<Row Type="BUILDING_FORGE_OF_HEPHAESTUS" Tag="PERSISTENT"/>
 	</TypeTags>
 	<Constructible_ValidDistricts>
 		<Row ConstructibleType="IMPROVEMENT_ATLANTIS_VOLCANO" DistrictType="DISTRICT_RURAL"/>
