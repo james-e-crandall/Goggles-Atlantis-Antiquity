@@ -11,7 +11,7 @@
 		<Argument name="Amount">1</Argument>
 	</Modifier>
 	
-	<Modifier id="MOD_BELLOWS_OF_HEPHAESTUS_PRODUCTION" collection="COLLECTION_ALL_CITIES" effect="EFFECT_ATTACH_MODIFIERS">
+	<Modifier id="MOD_JEC_BELLOWS_OF_HEPHAESTUS_PRODUCTION" collection="COLLECTION_ALL_CITIES" effect="EFFECT_ATTACH_MODIFIERS">
 		<SubjectRequirements>
 			<Requirement type="REQUIREMENT_CITY_HAS_UNIQUE_QUARTER">
 				<Argument name="UniqueQuarterType">QUARTER_BELLOWS_OF_HEPHAESTUS</Argument>
@@ -25,7 +25,7 @@
 		<Argument name="Amount">1</Argument>
 	</Modifier>
 
-	<Modifier id="MOD_BELLOWS_OF_HEPHAESTUS_RESOURCE_CAP" collection="COLLECTION_ALL_CITIES" effect="EFFECT_ATTACH_MODIFIERS">
+	<Modifier id="MOD_JEC_BELLOWS_OF_HEPHAESTUS_RESOURCE_CAP" collection="COLLECTION_ALL_CITIES" effect="EFFECT_ATTACH_MODIFIERS">
 		<SubjectRequirements>
 			<Requirement type="REQUIREMENT_CITY_HAS_UNIQUE_QUARTER">
 				<Argument name="UniqueQuarterType">QUARTER_BELLOWS_OF_HEPHAESTUS</Argument>

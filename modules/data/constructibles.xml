@@ -80,13 +80,13 @@
 		<Row UniqueQuarterType="QUARTER_BELLOWS_OF_HEPHAESTUS" BuildingType1="BUILDING_FORGE_OF_HEPHAESTUS" BuildingType2="BUILDING_SAW_PIT" Name="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_NAME" Description="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_DESCRIPTION" Tooltip="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_TOOLTIP" TraitType="TRAIT_ATLANTIS"/>
 	</UniqueQuarters>
 	<GameModifiers>
-		<Row ModifierId="MOD_BELLOWS_OF_HEPHAESTUS_PRODUCTION"/>
-		<Row ModifierId="MOD_BELLOWS_OF_HEPHAESTUS_RESOURCE_CAP"/>
+		<Row ModifierId="MOD_JEC_BELLOWS_OF_HEPHAESTUS_PRODUCTION"/>
+		<Row ModifierId="MOD_JEC_BELLOWS_OF_HEPHAESTUS_RESOURCE_CAP"/>
 	</GameModifiers>
 	<!-- These are listed here so the AI can evalutate Unique Quarters. They do not have any effects on the game for human players. -->
 	<UniqueQuarterModifiers>
-		<Row UniqueQuarterType="QUARTER_BELLOWS_OF_HEPHAESTUS" ModifierId="MOD_BELLOWS_OF_HEPHAESTUS_PRODUCTION"/>
-		<Row UniqueQuarterType="QUARTER_BELLOWS_OF_HEPHAESTUS" ModifierId="MOD_BELLOWS_OF_HEPHAESTUS_RESOURCE_CAP"/>
+		<Row UniqueQuarterType="QUARTER_BELLOWS_OF_HEPHAESTUS" ModifierId="MOD_JEC_BELLOWS_OF_HEPHAESTUS_PRODUCTION"/>
+		<Row UniqueQuarterType="QUARTER_BELLOWS_OF_HEPHAESTUS" ModifierId="MOD_JEC_BELLOWS_OF_HEPHAESTUS_RESOURCE_CAP"/>
 	</UniqueQuarterModifiers>
 	<Constructible_Advisories>
 		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
