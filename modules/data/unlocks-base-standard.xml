@@ -4,10 +4,10 @@
 		<InsertOrIgnore Kind="KIND_UNLOCK"/>
 	</Kinds>
 	<Types>
-		<InsertOrIgnore Type="UNLOCK_CIVILIZATION_ATLANTIS" Kind="KIND_UNLOCK"/>
+		<InsertOrIgnore Type="UNLOCK_CIVILIZATION_ATLANTIS_JEC" Kind="KIND_UNLOCK"/>
 	</Types>
 	<Unlocks>
-		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_ATLANTIS"/>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_ATLANTIS_JEC"/>
 	</Unlocks>
 	<UnlockRewards>
 	</UnlockRewards>
@@ -18,7 +18,7 @@
 		<Row RequirementId="REQ_CIV_IS_ATLANTIS" RequirementType="REQUIREMENT_PLAYER_CIVILIZATION_TYPE_MATCHES"/>
 	</Requirements>
 	<RequirementArguments>
-		<Row RequirementId="REQ_CIV_IS_ATLANTIS" Name="CivilizationType" Value="CIVILIZATION_ATLANTIS"/>
+		<Row RequirementId="REQ_CIV_IS_ATLANTIS" Name="CivilizationType" Value="CIVILIZATION_ATLANTIS_JEC"/>
 	</RequirementArguments>
 	<RequirementSetRequirements>
 		<Row RequirementSetId="REQSET_CIV_IS_ATLANTIS" RequirementId="REQ_CIV_IS_ATLANTIS"/>
@@ -28,6 +28,6 @@
 		
 	</UnlockRequirements>
 	<UnlockConfigurationValues>
-		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_ATLANTIS" ConfigurationValue="CIVILIZATION_ATLANTIS"/>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_ATLANTIS_JEC" ConfigurationValue="CIVILIZATION_ATLANTIS_JEC"/>
 	</UnlockConfigurationValues>
 </Database>

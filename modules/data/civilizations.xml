@@ -4,10 +4,10 @@
 		<Row Type="TRAIT_ATLANTIS_ABILITY" Kind="KIND_TRAIT"/>
 	</Types>
 	<Civilizations>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" AITargetCityPercentage="50" Name="LOC_CIVILIZATION_ATLANTIS_NAME" FullName="LOC_CIVILIZATION_ATLANTIS_FULLNAME" Description="LOC_CIVILIZATION_ATLANTIS_DESCRIPTION" Adjective="LOC_CIVILIZATION_ATLANTIS_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_FULL_CIV" UniqueCultureProgressionTree="TREE_CIVICS_AQ_ATLANTIS" CapitalName="LOC_CITY_NAME_ATLANTIS1" RandomCityNameDepth="10" />	
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" AITargetCityPercentage="50" Name="LOC_CIVILIZATION_ATLANTIS_JEC_NAME" FullName="LOC_CIVILIZATION_ATLANTIS_JEC_FULLNAME" Description="LOC_CIVILIZATION_ATLANTIS_JEC_DESCRIPTION" Adjective="LOC_CIVILIZATION_ATLANTIS_JEC_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_FULL_CIV" UniqueCultureProgressionTree="TREE_CIVICS_AQ_ATLANTIS" CapitalName="LOC_CITY_NAME_ATLANTIS1" RandomCityNameDepth="10" />	
 	</Civilizations>
 	<CivilizationFavoredWonders>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" FavoredWonderType="WONDER_TEMPLE_OF_POSEIDON" FavoredWonderName="LOC_WONDER_TEMPLE_OF_POSEIDON_NAME"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" FavoredWonderType="WONDER_TEMPLE_OF_POSEIDON" FavoredWonderName="LOC_WONDER_TEMPLE_OF_POSEIDON_NAME"/>
 	</CivilizationFavoredWonders>
 	<Modifiers/>
 	<ModifierArguments/>
@@ -19,52 +19,52 @@
 		<Row TraitType="TRAIT_ATLANTIS_ABILITY" ModifierId="MOD_ATLANTIS_FORBID_CITIES_FROM_TOWNS"/>
 	</TraitModifiers>
 	<CivilizationTraits>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" TraitType="TRAIT_ANTIQUITY_CIV"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" TraitType="TRAIT_ATLANTIS"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" TraitType="TRAIT_ATLANTIS_2"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" TraitType="TRAIT_ATLANTIS_ABILITY"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" TraitType="TRAIT_ATTRIBUTE_CULTURAL"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" TraitType="TRAIT_ATTRIBUTE_ECONOMIC"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" TraitType="TRAIT_ANTIQUITY_CIV"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" TraitType="TRAIT_ATLANTIS"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" TraitType="TRAIT_ATLANTIS_2"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" TraitType="TRAIT_ATLANTIS_ABILITY"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" TraitType="TRAIT_ATTRIBUTE_CULTURAL"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" TraitType="TRAIT_ATTRIBUTE_ECONOMIC"/>
 	</CivilizationTraits>
 	<LeaderCivPriorities>
 		<!--This is the table used for AI, the UI uses LeaderCivilizationBias in config.xml-->
-		<Row Leader="LEADER_BENJAMIN_FRANKLIN" Civilization="CIVILIZATION_ATLANTIS" Priority="3"/>
+		<Row Leader="LEADER_BENJAMIN_FRANKLIN" Civilization="CIVILIZATION_ATLANTIS_JEC" Priority="3"/>
 	</LeaderCivPriorities>
 	<CityNames>
 		<!--ATLANTIS-->
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" CityName="LOC_CITY_NAME_ATLANTIS1"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" CityName="LOC_CITY_NAME_ATLANTIS2"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" CityName="LOC_CITY_NAME_ATLANTIS3"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" CityName="LOC_CITY_NAME_ATLANTIS4"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" CityName="LOC_CITY_NAME_ATLANTIS5"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" CityName="LOC_CITY_NAME_ATLANTIS6"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" CityName="LOC_CITY_NAME_ATLANTIS7"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" CityName="LOC_CITY_NAME_ATLANTIS8"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" CityName="LOC_CITY_NAME_ATLANTIS9"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" CityName="LOC_CITY_NAME_ATLANTIS10"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" CityName="LOC_CITY_NAME_ATLANTIS11"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" CityName="LOC_CITY_NAME_ATLANTIS12"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" CityName="LOC_CITY_NAME_ATLANTIS13"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" CityName="LOC_CITY_NAME_ATLANTIS14"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" CityName="LOC_CITY_NAME_ATLANTIS15"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" CityName="LOC_CITY_NAME_ATLANTIS16"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" CityName="LOC_CITY_NAME_ATLANTIS17"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" CityName="LOC_CITY_NAME_ATLANTIS18"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" CityName="LOC_CITY_NAME_ATLANTIS19"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" CityName="LOC_CITY_NAME_ATLANTIS20"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" CityName="LOC_CITY_NAME_ATLANTIS21"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" CityName="LOC_CITY_NAME_ATLANTIS22"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" CityName="LOC_CITY_NAME_ATLANTIS1"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" CityName="LOC_CITY_NAME_ATLANTIS2"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" CityName="LOC_CITY_NAME_ATLANTIS3"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" CityName="LOC_CITY_NAME_ATLANTIS4"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" CityName="LOC_CITY_NAME_ATLANTIS5"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" CityName="LOC_CITY_NAME_ATLANTIS6"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" CityName="LOC_CITY_NAME_ATLANTIS7"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" CityName="LOC_CITY_NAME_ATLANTIS8"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" CityName="LOC_CITY_NAME_ATLANTIS9"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" CityName="LOC_CITY_NAME_ATLANTIS10"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" CityName="LOC_CITY_NAME_ATLANTIS11"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" CityName="LOC_CITY_NAME_ATLANTIS12"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" CityName="LOC_CITY_NAME_ATLANTIS13"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" CityName="LOC_CITY_NAME_ATLANTIS14"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" CityName="LOC_CITY_NAME_ATLANTIS15"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" CityName="LOC_CITY_NAME_ATLANTIS16"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" CityName="LOC_CITY_NAME_ATLANTIS17"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" CityName="LOC_CITY_NAME_ATLANTIS18"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" CityName="LOC_CITY_NAME_ATLANTIS19"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" CityName="LOC_CITY_NAME_ATLANTIS20"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" CityName="LOC_CITY_NAME_ATLANTIS21"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" CityName="LOC_CITY_NAME_ATLANTIS22"/>
 	</CityNames>
 	<StartBiasAdjacentToCoasts>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" Score="150"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" Score="150"/>
 	</StartBiasAdjacentToCoasts>
 	<VisArt_CivilizationBuildingCultures>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" BuildingCulture="BUILDING_CULTURE_MED"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" BuildingCulture="ANT_STONE"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" BuildingCulture="EXP_STONE"/>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" BuildingCulture="MOD_STONE"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" BuildingCulture="BUILDING_CULTURE_MED"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" BuildingCulture="ANT_STONE"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" BuildingCulture="EXP_STONE"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" BuildingCulture="MOD_STONE"/>
 	</VisArt_CivilizationBuildingCultures>
 	<VisArt_CivilizationUnitCultures>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS" UnitCulture="Med"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" UnitCulture="Med"/>
 	</VisArt_CivilizationUnitCultures>
 </Database>

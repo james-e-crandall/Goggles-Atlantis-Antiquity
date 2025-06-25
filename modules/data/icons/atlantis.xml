@@ -3,23 +3,23 @@
     <IconDefinitions>
         <!-- Civ Symbol-->
         <Row>
-            <ID>CIVILIZATION_ATLANTIS</ID>
-            <Path>fs://game/goggles_civ_atlantis/icons/civ_sym_atlantis</Path>
+            <ID>CIVILIZATION_ATLANTIS_JEC</ID>
+            <Path>fs://game/goggles_civ_atlantis/icons/civ_sym_atlantis_jec</Path>
             <Context>DEFAULT</Context>
         </Row>
 		<Row>
-			<ID>ICON_CIVILIZATION_ATLANTIS</ID>
-            <Path>fs://game/goggles_civ_atlantis/icons/civ_sym_atlantis</Path>
+			<ID>ICON_CIVILIZATION_ATLANTIS_JEC</ID>
+            <Path>fs://game/goggles_civ_atlantis/icons/civ_sym_atlantis_jec</Path>
 		</Row>
         <!-- Loadscreen -->
 		<Row>
-			<ID>CIVILIZATION_ATLANTIS</ID>
+			<ID>CIVILIZATION_ATLANTIS_JEC</ID>
 			<Context>BACKGROUND</Context>
 			<Path>fs://game/goggles_civ_atlantis/icons/lsbg_atlantis_1080</Path>
 			<IconSize>1080</IconSize>
 		</Row>
 		<Row>
-			<ID>CIVILIZATION_ATLANTIS</ID>
+			<ID>CIVILIZATION_ATLANTIS_JEC</ID>
 			<Context>BACKGROUND</Context>
 			<Path>fs://game/goggles_civ_atlantis/icons/lsbg_atlantis_720</Path>
 			<IconSize>720</IconSize>
@@ -27,7 +27,7 @@
         <!-- Culture -->
         <Row>
             <ID>cult_atlantis</ID>
-            <Path>fs://game/goggles_civ_atlantis/icons/cult_atlantis.png</Path>
+            <Path>fs://game/goggles_civ_atlantis/icons/cult_atlantis_jec.png</Path>
         </Row> 
         <!-- wonder -->
 		<Row>

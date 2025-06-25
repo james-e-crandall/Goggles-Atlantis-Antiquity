@@ -15,24 +15,24 @@
 
 	</LeaderCivilizationBias>
 	<Civilizations>
-		<Row Domain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS" CivilizationName="LOC_CIVILIZATION_ATLANTIS_NAME" CivilizationFullName="LOC_CIVILIZATION_ATLANTIS_FULLNAME" CivilizationDescription="LOC_CIVILIZATION_ATLANTIS_DESCRIPTION" CivilizationIcon="civ_sym_atlantis.png"/>
+		<Row Domain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS_JEC" CivilizationName="LOC_CIVILIZATION_ATLANTIS_JEC_NAME" CivilizationFullName="LOC_CIVILIZATION_ATLANTIS_JEC_FULLNAME" CivilizationDescription="LOC_CIVILIZATION_ATLANTIS_JEC_DESCRIPTION" CivilizationIcon="civ_sym_atlantis_jec.png"/>
 	</Civilizations>
 	<CivilizationItems>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS" Type="TRAIT_ATLANTIS_ABILITY" Kind="KIND_TRAIT" Name="LOC_TRAIT_ATLANTIS_ABILITY_NAME" Description="LOC_TRAIT_ATLANTIS_ABILITY_DESCRIPTION"/>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS" Type="BUILDING_FORGE_OF_HEPHAESTUS" Kind="KIND_IMPROVEMENT" Name="LOC_BUILDING_FORGE_OF_HEPHAESTUS_NAME" Description="LOC_BUILDING_FORGE_OF_HEPHAESTUS_DESCRIPTION" Icon="BUILDING_FORGE_OF_HEPHAESTUS"/>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS" Type="UNIT_WAR_CHARIOT" Kind="KIND_UNIT" Name="LOC_UNIT_WAR_CHARIOT_NAME" Description="LOC_UNIT_WAR_CHARIOT_BASE_DESCRIPTION" Icon="ICON_UNIT_WAR_CHARIOT"/>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS" Type="QUARTER_BELLOWS_OF_HEPHAESTUS" Kind="KIND_QUARTER" Name="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_NAME" Description="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_DESCRIPTION" Icon="city_uniquequarter"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS_JEC" Type="TRAIT_ATLANTIS_ABILITY" Kind="KIND_TRAIT" Name="LOC_TRAIT_ATLANTIS_ABILITY_NAME" Description="LOC_TRAIT_ATLANTIS_ABILITY_DESCRIPTION"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS_JEC" Type="BUILDING_FORGE_OF_HEPHAESTUS" Kind="KIND_IMPROVEMENT" Name="LOC_BUILDING_FORGE_OF_HEPHAESTUS_NAME" Description="LOC_BUILDING_FORGE_OF_HEPHAESTUS_DESCRIPTION" Icon="BUILDING_FORGE_OF_HEPHAESTUS"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS_JEC" Type="UNIT_WAR_CHARIOT" Kind="KIND_UNIT" Name="LOC_UNIT_WAR_CHARIOT_NAME" Description="LOC_UNIT_WAR_CHARIOT_BASE_DESCRIPTION" Icon="ICON_UNIT_WAR_CHARIOT"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS_JEC" Type="QUARTER_BELLOWS_OF_HEPHAESTUS" Kind="KIND_QUARTER" Name="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_NAME" Description="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_DESCRIPTION" Icon="city_uniquequarter"/>
 	</CivilizationItems>
 	<CivilizationTags>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS" TagType="TAG_TRAIT_CULTURAL"/>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS" TagType="TAG_TRAIT_ECONOMIC"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS_JEC" TagType="TAG_TRAIT_CULTURAL"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS_JEC" TagType="TAG_TRAIT_ECONOMIC"/>
 	</CivilizationTags>
 	<LeaderCivilizationBias>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS" LeaderDomain="StandardLeaders" LeaderType="LEADER_BENJAMIN_FRANKLIN" Bias="3" ReasonType="LOC_UNLOCK_PLAY_AS_BENJAMIN_FRANKLIN_ATLANTIS_TOOLTIP" ChoiceType="LOC_CREATE_GAME_GEOGRAPHIC_CHOICE" />
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS_JEC" LeaderDomain="StandardLeaders" LeaderType="LEADER_BENJAMIN_FRANKLIN" Bias="3" ReasonType="LOC_UNLOCK_PLAY_AS_BENJAMIN_FRANKLIN_ATLANTIS_TOOLTIP" ChoiceType="LOC_CREATE_GAME_GEOGRAPHIC_CHOICE" />
 		
 	</LeaderCivilizationBias>
 	<CivilizationUnlocks>
-		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS" AgeDomain="StandardAges" AgeType="AGE_EXPLORATION" Type="CIVILIZATION_HAWAII" Kind="KIND_CIVILIZATION" Name="LOC_CIVILIZATION_HAWAII_NAME" Description="LOC_CIVILIZATION_HAWAII_DESCRIPTION" Icon="CIVILIZATION_HAWAII"/>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ATLANTIS_JEC" AgeDomain="StandardAges" AgeType="AGE_EXPLORATION" Type="CIVILIZATION_HAWAII" Kind="KIND_CIVILIZATION" Name="LOC_CIVILIZATION_HAWAII_NAME" Description="LOC_CIVILIZATION_HAWAII_DESCRIPTION" Icon="CIVILIZATION_HAWAII"/>
 		
 	</CivilizationUnlocks>
 	<LeaderUnlocks>

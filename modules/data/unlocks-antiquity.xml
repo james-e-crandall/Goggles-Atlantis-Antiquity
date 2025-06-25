@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Database>
 	<Types>
-		<InsertOrIgnore Type="UNLOCK_CIVILIZATION_ATLANTIS" Kind="KIND_UNLOCK"/>
+		<InsertOrIgnore Type="UNLOCK_CIVILIZATION_ATLANTIS_JEC" Kind="KIND_UNLOCK"/>
 
 	</Types>
 	<Unlocks>
-		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_ATLANTIS"/>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_ATLANTIS_JEC"/>
 		
 	</Unlocks>
 	<UnlockRewards>
-		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_ATLANTIS" Name="LOC_CIVILIZATION_ATLANTIS_NAME" Description="LOC_UNLOCK_ANTIQUITY_CIV_DESCRIPTION" Icon="CIVILIZATION_ATLANTIS" UnlockRewardType="CIVILIZATION_ATLANTIS" UnlockRewardKind="KIND_CIVILIZATION" />
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_ATLANTIS_JEC" Name="LOC_CIVILIZATION_ATLANTIS_JEC_NAME" Description="LOC_UNLOCK_ANTIQUITY_CIV_DESCRIPTION" Icon="CIVILIZATION_ATLANTIS_JEC" UnlockRewardType="CIVILIZATION_ATLANTIS_JEC" UnlockRewardKind="KIND_CIVILIZATION" />
 
 	</UnlockRewards>
 	<UnlockRequirements>
 	
 	</UnlockRequirements>
 	<UnlockConfigurationValues>
-		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_ATLANTIS" ConfigurationValue="CIVILIZATION_ATLANTIS"/>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_ATLANTIS_JEC" ConfigurationValue="CIVILIZATION_ATLANTIS_JEC"/>
 	</UnlockConfigurationValues>
 </Database>

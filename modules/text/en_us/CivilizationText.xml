@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Database>
 	<EnglishText>
-		<Row Tag="LOC_CIVILIZATION_ATLANTIS_NAME">
+		<Row Tag="LOC_CIVILIZATION_ATLANTIS_JEC_NAME">
 			<Text>Atlantis</Text>
 		</Row>
 
-		<Row Tag="LOC_CIVILIZATION_ATLANTIS_FULLNAME">
+		<Row Tag="LOC_CIVILIZATION_ATLANTIS_JEC_FULLNAME">
 			<Text>Atlantian Empire</Text>
 		</Row>
 
@@ -14,7 +14,7 @@
 		</Row>
 
 		<!--Civilization Adjectives-->
-		<Row Tag="LOC_CIVILIZATION_ATLANTIS_ADJECTIVE">
+		<Row Tag="LOC_CIVILIZATION_ATLANTIS_JEC_ADJECTIVE">
 			<Text>Atlantian</Text>
 			<Gender>Masculine:an</Gender>
 		</Row>
