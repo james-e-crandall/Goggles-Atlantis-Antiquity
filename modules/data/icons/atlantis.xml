@@ -43,13 +43,13 @@
         <!-- UU AND UI -->
 
         <Row>
-            <ID>UNIT_WAR_CHARIOT</ID>
-            <Path>fs://game/goggles_civ_atlantis/icons/unitflag_war_chariot.png</Path>
+            <ID>UNIT_WAR_CHARIOT_JEC</ID>
+            <Path>fs://game/goggles_civ_atlantis/icons/unitflag_war_chariot_jec.png</Path>
             <Context>DEFAULT</Context>
         </Row>
         <Row>
-            <ID>UNIT_WAR_CHARIOT_2</ID>
-            <Path>fs://game/goggles_civ_atlantis/icons/unitflag_war_chariot.png</Path>
+            <ID>UNIT_WAR_CHARIOT_JEC_2</ID>
+            <Path>fs://game/goggles_civ_atlantis/icons/unitflag_war_chariot_jec.png</Path>
             <Context>DEFAULT</Context>
         </Row>
     </IconDefinitions>

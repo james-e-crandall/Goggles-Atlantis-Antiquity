@@ -2,32 +2,32 @@
 <Database>
 	<Types>
 		<!-- Civ Unique Military -->
-		<Row Type="UNIT_WAR_CHARIOT" Kind="KIND_UNIT"/>
-		<Row Type="UNIT_WAR_CHARIOT_2" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_WAR_CHARIOT_JEC" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_WAR_CHARIOT_JEC_2" Kind="KIND_UNIT"/>
 		<!-- Unique Abilities -->
 		<Row Type="ABILITY_WAR_CHARIOT" Kind="KIND_ABILITY"/>
 	</Types>
 	<Units>
-		<Row UnitType="UNIT_WAR_CHARIOT" Name="LOC_UNIT_WAR_CHARIOT_NAME" Description="LOC_UNIT_WAR_CHARIOT_DESCRIPTION" Tier="2" Maintenance="1" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_WHEELED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_ATLANTIS"/>
-		<Row UnitType="UNIT_WAR_CHARIOT_2" Name="LOC_UNIT_WAR_CHARIOT_NAME" Description="LOC_UNIT_WAR_CHARIOT_DESCRIPTION" Tier="3" Maintenance="2" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_WHEELED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_ATLANTIS_2"/>
+		<Row UnitType="UNIT_WAR_CHARIOT_JEC" Name="LOC_UNIT_WAR_CHARIOT_JEC_NAME" Description="LOC_UNIT_WAR_CHARIOT_JEC_DESCRIPTION" Tier="2" Maintenance="1" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_WHEELED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_ATLANTIS"/>
+		<Row UnitType="UNIT_WAR_CHARIOT_JEC_2" Name="LOC_UNIT_WAR_CHARIOT_JEC_NAME" Description="LOC_UNIT_WAR_CHARIOT_JEC_DESCRIPTION" Tier="3" Maintenance="2" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_WHEELED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_ATLANTIS_2"/>
 	</Units>
 	<Unit_Stats>
-		<Row UnitType="UNIT_WAR_CHARIOT" Combat="25" RangedCombat="15" Bombard="5" Range="2" />
-		<Row UnitType="UNIT_WAR_CHARIOT_2" Combat="30" RangedCombat="20" Bombard="10" Range="2"/>
+		<Row UnitType="UNIT_WAR_CHARIOT_JEC" Combat="25" RangedCombat="15" Bombard="5" Range="2" />
+		<Row UnitType="UNIT_WAR_CHARIOT_JEC_2" Combat="30" RangedCombat="20" Bombard="10" Range="2"/>
 	</Unit_Stats>
 	<Unit_Costs>
 		<!-- Civ Unique Military -->
-		<Row UnitType="UNIT_WAR_CHARIOT" YieldType="YIELD_PRODUCTION" Cost="80"/>
-		<Row UnitType="UNIT_WAR_CHARIOT_2" YieldType="YIELD_PRODUCTION" Cost="115"/>
+		<Row UnitType="UNIT_WAR_CHARIOT_JEC" YieldType="YIELD_PRODUCTION" Cost="80"/>
+		<Row UnitType="UNIT_WAR_CHARIOT_JEC_2" YieldType="YIELD_PRODUCTION" Cost="115"/>
 	</Unit_Costs>
 	<UnitUpgrades>
 		<!-- Civ Unique Military -->
-		<Row Unit="UNIT_WAR_CHARIOT" UpgradeUnit="UNIT_WAR_CHARIOT_2"/>
+		<Row Unit="UNIT_WAR_CHARIOT_JEC" UpgradeUnit="UNIT_WAR_CHARIOT_JEC_2"/>
 	</UnitUpgrades>
 	<UnitReplaces>
 		<!-- Civ Unique Military -->
-		<Row CivUniqueUnitType="UNIT_WAR_CHARIOT" ReplacesUnitType="UNIT_CHARIOT"/>
-		<Row CivUniqueUnitType="UNIT_WAR_CHARIOT_2" ReplacesUnitType="UNIT_HORSEMAN"/>
+		<Row CivUniqueUnitType="UNIT_WAR_CHARIOT_JEC" ReplacesUnitType="UNIT_CHARIOT"/>
+		<Row CivUniqueUnitType="UNIT_WAR_CHARIOT_JEC_2" ReplacesUnitType="UNIT_HORSEMAN"/>
 		<!-- Civ Unique Civilian -->
 	</UnitReplaces>
 	<Unit_TransitionRetains>
@@ -40,15 +40,15 @@
 	</Tags>
 	<TypeTags>
 		<!-- Civ Unique Military -->
-		<Row Type="UNIT_WAR_CHARIOT" Tag="UNIT_CLASS_COMBAT"/>
-		<Row Type="UNIT_WAR_CHARIOT" Tag="UNIT_CLASS_WHEELED"/>
-		<Row Type="UNIT_WAR_CHARIOT" Tag="UNIT_CLASS_CAVALRY"/>
-		<Row Type="UNIT_WAR_CHARIOT" Tag="UNIT_CLASS_WAR_CHARIOT"/>
+		<Row Type="UNIT_WAR_CHARIOT_JEC" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_WAR_CHARIOT_JEC" Tag="UNIT_CLASS_WHEELED"/>
+		<Row Type="UNIT_WAR_CHARIOT_JEC" Tag="UNIT_CLASS_CAVALRY"/>
+		<Row Type="UNIT_WAR_CHARIOT_JEC" Tag="UNIT_CLASS_WAR_CHARIOT"/>
 		
-		<Row Type="UNIT_WAR_CHARIOT_2" Tag="UNIT_CLASS_COMBAT"/>
-		<Row Type="UNIT_WAR_CHARIOT_2" Tag="UNIT_CLASS_WHEELED"/>
-		<Row Type="UNIT_WAR_CHARIOT_2" Tag="UNIT_CLASS_ELITE_CAVALRY"/>
-		<Row Type="UNIT_WAR_CHARIOT_2" Tag="UNIT_CLASS_WAR_CHARIOT"/>
+		<Row Type="UNIT_WAR_CHARIOT_JEC_2" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_WAR_CHARIOT_JEC_2" Tag="UNIT_CLASS_WHEELED"/>
+		<Row Type="UNIT_WAR_CHARIOT_JEC_2" Tag="UNIT_CLASS_ELITE_CAVALRY"/>
+		<Row Type="UNIT_WAR_CHARIOT_JEC_2" Tag="UNIT_CLASS_WAR_CHARIOT"/>
 	</TypeTags>
 	<UnitClass_Abilities>
 	</UnitClass_Abilities>
@@ -62,7 +62,7 @@
 	</ChargedUnitAbilities>
 	<Unit_Advisories>
 		<!-- Civ Unique Military -->
-		<Row UnitType="UNIT_WAR_CHARIOT" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
-		<Row UnitType="UNIT_WAR_CHARIOT_2" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_WAR_CHARIOT_JEC" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_WAR_CHARIOT_JEC_2" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
 	</Unit_Advisories>
 </Database>

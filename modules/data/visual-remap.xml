@@ -3,24 +3,24 @@
     <VisualRemaps>
     <!-- subei -->
         <Row>
-            <ID>REMAP_UNIT_WAR_CHARIOT</ID>
-            <DisplayName>LOC_UNIT_WAR_CHARIOT_NAME</DisplayName>
+            <ID>REMAP_UNIT_WAR_CHARIOT_JEC</ID>
+            <DisplayName>LOC_UNIT_WAR_CHARIOT_JEC_NAME</DisplayName>
             <Kind>UNIT</Kind>
-            <From>UNIT_WAR_CHARIOT</From>
+            <From>UNIT_WAR_CHARIOT_JEC</From>
             <To>UNIT_CHARIOT</To>
         </Row>
         <Row>
-            <ID>REMAP_UNIT_WAR_CHARIOT_2</ID>
-            <DisplayName>LOC_UNIT_WAR_CHARIOT_NAME</DisplayName>
+            <ID>REMAP_UNIT_WAR_CHARIOT_JEC_2</ID>
+            <DisplayName>LOC_UNIT_WAR_CHARIOT_JEC_NAME</DisplayName>
             <Kind>UNIT</Kind>
-            <From>UNIT_WAR_CHARIOT_2</From>
+            <From>UNIT_WAR_CHARIOT_JEC_2</From>
             <To>UNIT_CHARIOT</To>
         </Row>
         <Row>
-            <ID>REMAP_UNIT_WAR_CHARIOT_3</ID>
-            <DisplayName>LOC_UNIT_WAR_CHARIOT_NAME</DisplayName>
+            <ID>REMAP_UNIT_WAR_CHARIOT_JEC_3</ID>
+            <DisplayName>LOC_UNIT_WAR_CHARIOT_JEC_NAME</DisplayName>
             <Kind>UNIT</Kind>
-            <From>UNIT_WAR_CHARIOT_3</From>
+            <From>UNIT_WAR_CHARIOT_JEC_3</From>
             <To>UNIT_CHARIOT</To>
         </Row>
                

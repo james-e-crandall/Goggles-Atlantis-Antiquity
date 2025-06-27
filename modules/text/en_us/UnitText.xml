@@ -4,19 +4,19 @@
 		<!-- Unit Abilities -->
 
 		<!-- Greece Unique Units -->
-		<Row Tag="LOC_UNIT_WAR_CHARIOT_NAME">
+		<Row Tag="LOC_UNIT_WAR_CHARIOT_JEC_NAME">
 			<Text>War Chariot</Text>
 		</Row>
-		<Row Tag="LOC_UNIT_WAR_CHARIOT_BASE_DESCRIPTION">
+		<Row Tag="LOC_UNIT_WAR_CHARIOT_JEC_BASE_DESCRIPTION">
 			<Text>Atlantian Unique War Chariot Unit.</Text>
 		</Row>
-		<Row Tag="LOC_UNIT_WAR_CHARIOT_DESCRIPTION">
+		<Row Tag="LOC_UNIT_WAR_CHARIOT_JEC_DESCRIPTION">
 			<Text>Atlantian Unique War Chariot Unit.</Text>
 		</Row>
-		<Row Tag="LOC_UNIT_WAR_CHARIOT_2_DESCRIPTION">
+		<Row Tag="LOC_UNIT_WAR_CHARIOT_JEC_2_DESCRIPTION">
 			<Text>Tier 2 Atlantian Unique War Chariot Unit.</Text>
 		</Row>
-		<Row Tag="LOC_UNIT_WAR_CHARIOT_3_DESCRIPTION">
+		<Row Tag="LOC_UNIT_WAR_CHARIOT_JEC_3_DESCRIPTION">
 			<Text>Tier 3 Atlantian Unique War Chariot Unit.</Text>
 		</Row>
 	</EnglishText>

@@ -31,8 +31,8 @@
 		<Row ListType="Atlantis Constructibles Biases" Item="BUILDING_SAW_PIT" Value="200" />
 		<Row ListType="Atlantis Constructibles Biases" Item="BUILDING_FORGE_OF_HEPHAESTUS" Value="200" />
 		<Row ListType="Atlantis Constructibles Biases" Item="WONDER_TEMPLE_OF_POSEIDON" Value="50"/>
-		<Row ListType="Atlantis Unit Biases" Item="UNIT_WAR_CHARIOT" Value="50"/>
-		<Row ListType="Atlantis Unit Biases" Item="UNIT_WAR_CHARIOT_2" Value="50"/>
+		<Row ListType="Atlantis Unit Biases" Item="UNIT_WAR_CHARIOT_JEC" Value="50"/>
+		<Row ListType="Atlantis Unit Biases" Item="UNIT_WAR_CHARIOT_JEC_2" Value="50"/>
 
 	</AiFavoredItems>
 	<!-- City Strategies -->
