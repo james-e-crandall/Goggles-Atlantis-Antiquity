@@ -7,5 +7,8 @@
 		<Row Tag="LOC_LOADING_INTRO_ATLANTIS">
 			<Text>But afterwards there occurred violent earthquakes and floods; and in a single day and night of misfortune all your warlike men in a body sank into the earth, and the island of Atlantis in like manner disappeared in the depths of the sea.</Text>
 		</Row>
+		<Row Tag="LOC_LOADING_CIV_TIPS_TEXT_ATLANTIS">
+			<Text>Atlantis is able to expand with the powerful War Chaiot taking what cannot be settled peacefully. The Forge and Bellows of Hephaestus expand the capital's resource Capacity.</Text>
+		</Row>
 	</EnglishText>
 </Database>
