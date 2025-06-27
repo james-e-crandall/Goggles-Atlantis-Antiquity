@@ -2,8 +2,8 @@
 <Database>
 	<Types>
 		<!-- Major Civs -->
-		<Row Type="TRAIT_ATLANTIS" Kind="KIND_TRAIT"/>
-		<Row Type="TRAIT_ATLANTIS_2" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_ATLANTIS_JEC" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_ATLANTIS_JEC_2" Kind="KIND_TRAIT"/>
 		<Row Type="CIVILIZATION_ATLANTIS_JEC" Kind="KIND_CIVILIZATION"/>
 	</Types>
 	<LegacyCivilizations>
@@ -11,11 +11,11 @@
 		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" Name="LOC_CIVILIZATION_ATLANTIS_JEC_NAME" FullName="LOC_CIVILIZATION_ATLANTIS_JEC_FULLNAME" Adjective="LOC_CIVILIZATION_ATLANTIS_JEC_ADJECTIVE" Age="AGE_ANTIQUITY"/>
 	</LegacyCivilizations>
 	<LegacyCivilizationTraits>
-		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" TraitType="TRAIT_ATLANTIS"/>
+		<Row CivilizationType="CIVILIZATION_ATLANTIS_JEC" TraitType="TRAIT_ATLANTIS_JEC"/>
 	</LegacyCivilizationTraits>
 	<Traits>
-		<Row TraitType="TRAIT_ATLANTIS" InternalOnly="true"/>
-		<Row TraitType="TRAIT_ATLANTIS_2" InternalOnly="true"/>
+		<Row TraitType="TRAIT_ATLANTIS_JEC" InternalOnly="true"/>
+		<Row TraitType="TRAIT_ATLANTIS_JEC_2" InternalOnly="true"/>
 	</Traits>
 	<LegacyLeaderCivPriorities>
 		<Row Leader="LEADER_BENJAMIN_FRANKLIN" CivilizationType="CIVILIZATION_ATLANTIS_JEC"/>

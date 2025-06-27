@@ -8,8 +8,8 @@
 		<Row Type="ABILITY_WAR_CHARIOT" Kind="KIND_ABILITY"/>
 	</Types>
 	<Units>
-		<Row UnitType="UNIT_WAR_CHARIOT_JEC" Name="LOC_UNIT_WAR_CHARIOT_JEC_NAME" Description="LOC_UNIT_WAR_CHARIOT_JEC_DESCRIPTION" Tier="2" Maintenance="1" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_WHEELED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_ATLANTIS"/>
-		<Row UnitType="UNIT_WAR_CHARIOT_JEC_2" Name="LOC_UNIT_WAR_CHARIOT_JEC_NAME" Description="LOC_UNIT_WAR_CHARIOT_JEC_DESCRIPTION" Tier="3" Maintenance="2" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_WHEELED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_ATLANTIS_2"/>
+		<Row UnitType="UNIT_WAR_CHARIOT_JEC" Name="LOC_UNIT_WAR_CHARIOT_JEC_NAME" Description="LOC_UNIT_WAR_CHARIOT_JEC_DESCRIPTION" Tier="2" Maintenance="1" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_WHEELED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_ATLANTIS_JEC"/>
+		<Row UnitType="UNIT_WAR_CHARIOT_JEC_2" Name="LOC_UNIT_WAR_CHARIOT_JEC_NAME" Description="LOC_UNIT_WAR_CHARIOT_JEC_DESCRIPTION" Tier="3" Maintenance="2" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_WHEELED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" TraitType="TRAIT_ATLANTIS_JEC_2"/>
 	</Units>
 	<Unit_Stats>
 		<Row UnitType="UNIT_WAR_CHARIOT_JEC" Combat="25" RangedCombat="15" Bombard="5" Range="2" />

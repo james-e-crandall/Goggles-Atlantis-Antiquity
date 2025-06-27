@@ -20,10 +20,10 @@
 		</Row>
 
 		<!-- Ability-->
-		<Row Tag="LOC_TRAIT_ATLANTIS_ABILITY_NAME">
+		<Row Tag="LOC_TRAIT_ATLANTIS_JEC_ABILITY_NAME">
 			<Text>Fairest of All Plains</Text>
 		</Row>
-		<Row Tag="LOC_TRAIT_ATLANTIS_ABILITY_DESCRIPTION">
+		<Row Tag="LOC_TRAIT_ATLANTIS_JEC_ABILITY_DESCRIPTION">
 			<Text>[LIST][LI]Can only have 1 City. Towns cannot use [B]Convert to City[/B].[LI]Able to work [B]Volcano[/B] Tiles.[LI][B]+30%[icon:YIELD_PRODUCTION] Production [/B]towards constructing [B]Temple of Poseidon[/B].[/LIST]</Text>
 		</Row>
 

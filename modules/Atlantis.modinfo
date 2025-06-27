@@ -72,7 +72,7 @@
 					<Item>icons/cult_atlantis_jec.png</Item>
 					<Item>icons/unitflag_war_chariot.png</Item>
 					<Item>icons/wondericon_temple_of_poseidon.png</Item>
-					<Item>icons/buildicon_forge_of_hephaestus.png</Item>
+					<Item>icons/buildicon_forge_of_hephaestus_jec.png</Item>
                 </ImportFiles>
                 <UpdateIcons>
                     <Item>data/icons/atlantis.xml</Item>
@@ -172,7 +172,7 @@
 					<Item>icons/cult_atlantis_jec.png</Item>
 					<Item>icons/unitflag_war_chariot.png</Item>
 					<Item>icons/wondericon_temple_of_poseidon.png</Item>
-					<Item>icons/buildicon_forge_of_hephaestus.png</Item>
+					<Item>icons/buildicon_forge_of_hephaestus_jec.png</Item>
                 </ImportFiles>
                 <UpdateIcons>
                     <Item>data/icons/atlantis.xml</Item>

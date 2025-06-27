@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Database>  
 	<Types>
-		<Row Type="IMPROVEMENT_ATLANTIS_VOLCANO" Kind="KIND_CONSTRUCTIBLE"/>
-		<Row Type="BUILDING_FORGE_OF_HEPHAESTUS" Kind="KIND_CONSTRUCTIBLE"/>
+		<Row Type="IMPROVEMENT_ATLANTIS_VOLCANO_JEC" Kind="KIND_CONSTRUCTIBLE"/>
+		<Row Type="BUILDING_FORGE_OF_HEPHAESTUS_JEC" Kind="KIND_CONSTRUCTIBLE"/>
 	</Types>
 	<TypeQuotes>
 	</TypeQuotes>
 	<AgeGrowthBalances>
 	</AgeGrowthBalances>
 	<Constructibles>
-		<Row ConstructibleType="IMPROVEMENT_ATLANTIS_VOLCANO" Name="LOC_IMPROVEMENT_ATLANTIS_VOLCANO_NAME" Description="LOC_IMPROVEMENT_ATLANTIS_VOLCANO_DESCRIPTION" ConstructibleClass="IMPROVEMENT" Cost="10" Population="1"  Age="AGE_ANTIQUITY"/>
-		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS" Name="LOC_BUILDING_FORGE_OF_HEPHAESTUS_NAME" Description="LOC_BUILDING_FORGE_OF_HEPHAESTUS_DESCRIPTION" Tooltip="LOC_BUILDING_FORGE_OF_HEPHAESTUS_TOOLTIP" ConstructibleClass="BUILDING" Cost="55" Population="1"/>
+		<Row ConstructibleType="IMPROVEMENT_ATLANTIS_VOLCANO_JEC" Name="LOC_IMPROVEMENT_ATLANTIS_VOLCANO_JEC_NAME" Description="LOC_IMPROVEMENT_ATLANTIS_VOLCANO_JEC_DESCRIPTION" ConstructibleClass="IMPROVEMENT" Cost="10" Population="1"  Age="AGE_ANTIQUITY"/>
+		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS_JEC" Name="LOC_BUILDING_FORGE_OF_HEPHAESTUS_JEC_NAME" Description="LOC_BUILDING_FORGE_OF_HEPHAESTUS_JEC_DESCRIPTION" Tooltip="LOC_BUILDING_FORGE_OF_HEPHAESTUS_JEC_TOOLTIP" ConstructibleClass="BUILDING" Cost="55" Population="1"/>
 		
 	</Constructibles>
 	<Buildings>
-		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS" Movable="false" Town="True" TraitType="TRAIT_ATLANTIS"/>
+		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS_JEC" Movable="false" Town="True" TraitType="TRAIT_ATLANTIS_JEC"/>
 	</Buildings>
 	<Improvements>
-		<Row ConstructibleType="IMPROVEMENT_ATLANTIS_VOLCANO" TraitType="TRAIT_ATLANTIS_2"/>
+		<Row ConstructibleType="IMPROVEMENT_ATLANTIS_VOLCANO_JEC" TraitType="TRAIT_ATLANTIS_JEC_2"/>
 	</Improvements>
 	<Wonders>
 	</Wonders>
 	<TypeTags>
-		<Row Type="BUILDING_FORGE_OF_HEPHAESTUS" Tag="PRODUCTION"/>
-		<Row Type="BUILDING_FORGE_OF_HEPHAESTUS" Tag="AGELESS"/>
+		<Row Type="BUILDING_FORGE_OF_HEPHAESTUS_JEC" Tag="PRODUCTION"/>
+		<Row Type="BUILDING_FORGE_OF_HEPHAESTUS_JEC" Tag="AGELESS"/>
 	</TypeTags>
 	<Constructible_ValidDistricts>
-		<Row ConstructibleType="IMPROVEMENT_ATLANTIS_VOLCANO" DistrictType="DISTRICT_RURAL"/>
-		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS" DistrictType="DISTRICT_CITY_CENTER"/>
-		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS" DistrictType="DISTRICT_URBAN"/>
+		<Row ConstructibleType="IMPROVEMENT_ATLANTIS_VOLCANO_JEC" DistrictType="DISTRICT_RURAL"/>
+		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS_JEC" DistrictType="DISTRICT_CITY_CENTER"/>
+		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS_JEC" DistrictType="DISTRICT_URBAN"/>
 	</Constructible_ValidDistricts>
 	<District_FreeConstructibles>
-		<Row DistrictType="DISTRICT_RURAL" ConstructibleType="IMPROVEMENT_ATLANTIS_VOLCANO" FeatureType="FEATURE_VOLCANO" Priority="5"/>
+		<Row DistrictType="DISTRICT_RURAL" ConstructibleType="IMPROVEMENT_ATLANTIS_VOLCANO_JEC" FeatureType="FEATURE_VOLCANO" Priority="5"/>
 	</District_FreeConstructibles>
 	<Constructible_ValidBiomes>
 	</Constructible_ValidBiomes>
@@ -40,23 +40,23 @@
 	<Constructible_ValidTerrains>
 	</Constructible_ValidTerrains>
 	<Constructible_RequiredFeatures>
-		<Row ConstructibleType="IMPROVEMENT_ATLANTIS_VOLCANO" FeatureType="FEATURE_VOLCANO"/>
+		<Row ConstructibleType="IMPROVEMENT_ATLANTIS_VOLCANO_JEC" FeatureType="FEATURE_VOLCANO"/>
 	</Constructible_RequiredFeatures>
 	<AgeConstructibleDefaultYields>
 	</AgeConstructibleDefaultYields>
 	<AgeConstructibleDefaultMaintenances>
 	</AgeConstructibleDefaultMaintenances>
 	<Constructible_YieldChanges>
-		<Row ConstructibleType="IMPROVEMENT_ATLANTIS_VOLCANO" YieldType="YIELD_CULTURE" YieldChange="1"/>
-		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row ConstructibleType="IMPROVEMENT_ATLANTIS_VOLCANO_JEC" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS_JEC" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
 	</Constructible_YieldChanges>
 	<Constructible_Maintenances>
-		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS" YieldType="YIELD_GOLD" Amount="1"/>
-		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS" YieldType="YIELD_HAPPINESS" Amount="1"/>
+		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS_JEC" YieldType="YIELD_GOLD" Amount="1"/>
+		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS_JEC" YieldType="YIELD_HAPPINESS" Amount="1"/>
 	</Constructible_Maintenances>
 	<Constructible_Adjacencies>
-		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS" YieldChangeId="ForgeOfHephaestusMineResourceProduction"/>
-		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS" YieldChangeId="ForgeOfHephaestusQuarryduction"/>
+		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS_JEC" YieldChangeId="ForgeOfHephaestusMineResourceProduction"/>
+		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS_JEC" YieldChangeId="ForgeOfHephaestusQuarryduction"/>
 	</Constructible_Adjacencies>
 	<Adjacency_YieldChanges>
 		<Row ID="ForgeOfHephaestusMineResourceProduction" YieldType="YIELD_PRODUCTION" YieldChange="1" TilesRequired="1" AdjacentConstructible="IMPROVEMENT_MINE_RESOURCE"/>
@@ -72,12 +72,12 @@
 	<Constructible_Logistics>
 	</Constructible_Logistics>
 	<Constructible_Plunders>
-		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS" PlunderType="PLUNDER_SCIENCE" Amount="40"/>
+		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS_JEC" PlunderType="PLUNDER_SCIENCE" Amount="40"/>
 	</Constructible_Plunders>
 	<ConstructibleModifiers>
 	</ConstructibleModifiers>
 	<UniqueQuarters>
-		<Row UniqueQuarterType="QUARTER_BELLOWS_OF_HEPHAESTUS" BuildingType1="BUILDING_FORGE_OF_HEPHAESTUS" BuildingType2="BUILDING_SAW_PIT" Name="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_NAME" Description="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_DESCRIPTION" Tooltip="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_TOOLTIP" TraitType="TRAIT_ATLANTIS"/>
+		<Row UniqueQuarterType="QUARTER_BELLOWS_OF_HEPHAESTUS" BuildingType1="BUILDING_FORGE_OF_HEPHAESTUS_JEC" BuildingType2="BUILDING_SAW_PIT" Name="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_NAME" Description="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_DESCRIPTION" Tooltip="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_TOOLTIP" TraitType="TRAIT_ATLANTIS_JEC"/>
 	</UniqueQuarters>
 	<GameModifiers>
 		<Row ModifierId="MOD_JEC_BELLOWS_OF_HEPHAESTUS_PRODUCTION"/>
@@ -89,7 +89,7 @@
 		<Row UniqueQuarterType="QUARTER_BELLOWS_OF_HEPHAESTUS" ModifierId="MOD_JEC_BELLOWS_OF_HEPHAESTUS_RESOURCE_CAP"/>
 	</UniqueQuarterModifiers>
 	<Constructible_Advisories>
-		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row ConstructibleType="BUILDING_FORGE_OF_HEPHAESTUS_JEC" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
 	</Constructible_Advisories>
 
 </Database>

@@ -2,20 +2,20 @@
 <Database>
 	<EnglishText>
 		<!-- IMPROVEMENTS -->
-		<Row Tag="LOC_IMPROVEMENT_ATLANTIS_VOLCANO_NAME">
+		<Row Tag="LOC_IMPROVEMENT_ATLANTIS_VOLCANO_JEC_NAME">
 			<Text>Caldera</Text>
 		</Row>
-		<Row Tag="LOC_IMPROVEMENT_ATLANTIS_VOLCANO_DESCRIPTION">
+		<Row Tag="LOC_IMPROVEMENT_ATLANTIS_VOLCANO_JEC_DESCRIPTION">
 			<Text>+2 [icon:YIELD_CULTURE]Culture</Text>
 		</Row>
 		<!-- BUILDING -->
-		<Row Tag="LOC_BUILDING_FORGE_OF_HEPHAESTUS_NAME">
+		<Row Tag="LOC_BUILDING_FORGE_OF_HEPHAESTUS_JEC_NAME">
 			<Text>Forge of Hephaestus</Text>
 		</Row>
-		<Row Tag="LOC_BUILDING_FORGE_OF_HEPHAESTUS_DESCRIPTION">
+		<Row Tag="LOC_BUILDING_FORGE_OF_HEPHAESTUS_JEC_DESCRIPTION">
 			<Text>+1[icon:YIELD_PRODUCTION] Production. +1[icon:YIELD_PRODUCTION] Production from adjacent Mines with Resources and Quarries. Ageless. Can be purchased in Towns.</Text>
 		</Row>
-		<Row Tag="LOC_BUILDING_FORGE_OF_HEPHAESTUS_TOOLTIP">
+		<Row Tag="LOC_BUILDING_FORGE_OF_HEPHAESTUS_JEC_TOOLTIP">
 			<Text>+1[icon:YIELD_PRODUCTION] Production on Mines with Resources and Quarries. Warehouse Production Building. Ageless. Can be purchased in Towns.</Text>
 		</Row>
 		<!-- QUARTER -->
