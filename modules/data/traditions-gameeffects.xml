@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameEffects xmlns="GameEffects">
 	<!-- Tradition: Critias: +1 Gold per specialists. -->
-	<Modifier id="TRADITION_ATLANTIS_CRITIAS_MOD" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD">
+	<Modifier id="MOD_JEC_CRITIAS_GOLD" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD">
 		<SubjectRequirements>
 			<Requirement type="REQUIREMENT_CITY_IS_PRODUCING_PROJECT">
 				<Argument name="ProjectType">PROJECT_TOWN_URBAN_CENTER</Argument>
@@ -13,7 +13,7 @@
 	</Modifier>
 
 	<!-- Sixth portion: Settlements receive increased Gold based on Urban Population  -->
-	<Modifier id="TRADITION_ATLANTIS_SIXTH_PORTION_MOD_CAVALRY_ABILITY" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_UNIT_ADJUST_ABILITY">
+	<Modifier id="MOD_JEC_SIXTH_PORTION__CAVALRY_ABILITY" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_UNIT_ADJUST_ABILITY">
 		<SubjectRequirements>
 			<Requirement type="REQUIREMENT_UNIT_TAG_MATCHES">
 				<Argument name="Tag">UNIT_CLASS_CAVALRY</Argument>

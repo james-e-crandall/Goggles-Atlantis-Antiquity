@@ -2,17 +2,9 @@
 <GameEffects xmlns="GameEffects">
 
 		<!-- NODE_CIVIC_AQ_ATLANTIS_PILLARS_OF_HERCULES -->
-		<Modifier id="NODE_CIVIC_AQ_ATLANTIS_PILLARS_OF_HERCULES_MOD" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_ADJUST_PLAYER_OR_CITY_BUILDING_PURCHASE_EFFICIENCY">
-			<SubjectRequirements>
-				<Requirement type="REQUIREMENT_CITY_IS_TOWN"/>
-			</SubjectRequirements>
-			<Argument name="ConstructibleClass">FORTIFICATION</Argument>
-			<Argument name="Percent">50</Argument>
-			<Argument name="Tooltip">LOC_NODE_CIVIC_AQ_ATLANTIS_PILLARS_OF_HERCULES_NAME</Argument>
-		</Modifier>
 
 		<!-- NODE_CIVIC_AQ_ATLANTIS_HUNT_OF_THE_BULLS -->
-		<Modifier id="NODE_CIVIC_AQ_ATLANTIS_HUNT_OF_THE_BULLS_MOD" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD_PER_POPULATION">
+		<Modifier id="NODE_JEC_HUNT_OF_THE_BULLS_MOD" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD_PER_POPULATION">
 			<SubjectRequirements>
 				<Requirement type="REQUIREMENT_PLAYER_IS_IN_GOLDEN_AGE" />
 			</SubjectRequirements>
@@ -26,7 +18,7 @@
 		</Modifier>
 
 		<!-- NODE_CIVIC_AQ_ATLANTIS_LAWS_OF_THE_TEN_KINGS -->
-		<Modifier id="NODE_CIVIC_AQ_ATLANTIS_LAWS_OF_THE_TEN_KINGS_MOD" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD_PER_POPULATION">
+		<Modifier id="NODE_JEC_LAWS_OF_THE_TEN_KINGS_MOD" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD_PER_POPULATION">
 			<SubjectRequirements>
 				<Requirement type="REQUIREMENT_PLAYER_IS_IN_GOLDEN_AGE" />
 			</SubjectRequirements>
