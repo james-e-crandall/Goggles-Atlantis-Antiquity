@@ -2,70 +2,70 @@
 <Database>
 	<EnglishText>
 		<!--ATLANTIS-->
-		<Row Tag="LOC_CITY_NAME_ATLANTIS1">
+		<Row Tag="LOC_CITY_NAME_ATLANTIS_JEC1">
 			<Text>Atlas</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_ATLANTIS2">
+		<Row Tag="LOC_CITY_NAME_ATLANTIS_JEC2">
 			<Text>Evenor</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_ATLANTIS3">
+		<Row Tag="LOC_CITY_NAME_ATLANTIS_JEC3">
 			<Text>Leucippe</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_ATLANTIS4">
+		<Row Tag="LOC_CITY_NAME_ATLANTIS_JEC4">
 			<Text>Cleito</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_ATLANTIS5">
+		<Row Tag="LOC_CITY_NAME_ATLANTIS_JEC5">
 			<Text>Gades</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_ATLANTIS6">
+		<Row Tag="LOC_CITY_NAME_ATLANTIS_JEC6">
 			<Text>Ampheres</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_ATLANTIS7">
+		<Row Tag="LOC_CITY_NAME_ATLANTIS_JEC7">
 			<Text>Evaemon</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_ATLANTIS8">
+		<Row Tag="LOC_CITY_NAME_ATLANTIS_JEC8">
 			<Text>Azaes</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_ATLANTIS9">
+		<Row Tag="LOC_CITY_NAME_ATLANTIS_JEC9">
 			<Text>Diaprepes</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_ATLANTIS10">
+		<Row Tag="LOC_CITY_NAME_ATLANTIS_JEC10">
 			<Text>Baiae</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_ATLANTIS11">
+		<Row Tag="LOC_CITY_NAME_ATLANTIS_JEC11">
 			<Text>Thonis-Heracleion</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_ATLANTIS12">
+		<Row Tag="LOC_CITY_NAME_ATLANTIS_JEC12">
 			<Text>Helike</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_ATLANTIS13">
+		<Row Tag="LOC_CITY_NAME_ATLANTIS_JEC13">
 			<Text>Ġgantija</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_ATLANTIS14">
+		<Row Tag="LOC_CITY_NAME_ATLANTIS_JEC14">
 			<Text>Ħaġar Qim</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_ATLANTIS15">
+		<Row Tag="LOC_CITY_NAME_ATLANTIS_JEC15">
 			<Text>Mnajdra</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_ATLANTIS16">
+		<Row Tag="LOC_CITY_NAME_ATLANTIS_JEC16">
 			<Text>Evonium</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_ATLANTIS17">
+		<Row Tag="LOC_CITY_NAME_ATLANTIS_JEC17">
 			<Text>Larissa</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_ATLANTIS18">
+		<Row Tag="LOC_CITY_NAME_ATLANTIS_JEC18">
 			<Text>Zadracarta</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_ATLANTIS19">
+		<Row Tag="LOC_CITY_NAME_ATLANTIS_JEC19">
 			<Text>Roanoke Colony</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_ATLANTIS20">
+		<Row Tag="LOC_CITY_NAME_ATLANTIS_JEC20">
 			<Text>Troy</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_ATLANTIS21">
+		<Row Tag="LOC_CITY_NAME_ATLANTIS_JEC21">
 			<Text>Chaméni Póli</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_ATLANTIS22">
+		<Row Tag="LOC_CITY_NAME_ATLANTIS_JEC22">
 			<Text>Città perduta</Text>
 		</Row>
 	</EnglishText>
