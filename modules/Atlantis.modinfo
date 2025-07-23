@@ -88,6 +88,7 @@
 				</UpdateArt>
 				<UpdateDatabase>
 					<Item>data/civilizations-legacy.xml</Item>
+					<Item>data/constructibles-gameeffects.xml</Item>
 					<Item>data/constructibles.xml</Item>
 					<Item>data/traditions-gameeffects.xml</Item>
 					<Item>data/traditions.xml</Item>
@@ -107,6 +108,7 @@
 					<Item>text/en_us/CultureText.xml</Item>
 					<Item>text/en_us/UnitText.xml</Item>	
 					<Item>text/en_us/WonderText.xml</Item>
+					<Item>text/en_us/ConstructibleText.xml</Item>
 				</UpdateText>
 			</Actions>
 		</ActionGroup>
@@ -115,8 +117,6 @@
 				<UpdateArt>
 				</UpdateArt>
 				<UpdateDatabase>
-					
-					<Item>data/constructibles-no-persist-gameeffects.xml</Item>
 					<Item>data/ai-antiquity.xml</Item>
 					<Item>data/unlocks-antiquity.xml</Item>
 					<Item>data/citizen-names.xml</Item>
@@ -132,7 +132,6 @@
 					<Item>data/greatworks.xml</Item>
 				</UpdateDatabase>
 				<UpdateText>
-					<Item>text/en_us/ConstructibleNoPersistText.xml</Item>
 					<Item>text/en_us/LoadingText.xml</Item>
 				</UpdateText>
                 <UpdateVisualRemaps>
@@ -145,7 +144,7 @@
 				<UpdateArt>
 				</UpdateArt>
 				<UpdateDatabase>
-					<Item>data/constructibles-gameeffects.xml</Item>
+					
 				</UpdateDatabase>
                 <ImportFiles>
 					
@@ -154,7 +153,7 @@
 
                 </UpdateIcons>
 				<UpdateText>
-					<Item>text/en_us/ConstructibleText.xml</Item>
+					
 				</UpdateText>
 			</Actions>
 		</ActionGroup>
@@ -182,11 +181,11 @@
                 </UpdateIcons>
 				<UpdateText>
 					<Item>text/en_us/CivilizationText.xml</Item>
-					<Item>text/en_us/ConstructibleNoPersistText.xml</Item>
 					<Item>text/en_us/UnitText.xml</Item>
 					<Item>text/en_us/CultureText.xml</Item>
 					<Item>text/en_us/UnlockText.xml</Item>
 					<Item>text/en_us/LoadingText.xml</Item>
+					<Item>text/en_us/ConstructibleText.xml</Item>
 				</UpdateText>
 				<UpdateColors>
 				</UpdateColors>

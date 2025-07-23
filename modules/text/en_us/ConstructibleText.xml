@@ -24,10 +24,19 @@
 			<Text>Bellows of Hephaestus</Text>
 		</Row>
 		<Row Tag="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_DESCRIPTION">
-			<Text>Created by constructing the Forge of Hephaestus and Saw Pit in the same District. +1 [icon:YIELD_PRODUCTION]Production on the City Center. +1 Resource Capicity in the city.</Text>
+			<Text>[LIST][LI]Created by constructing the Forge of Hephaestus and Saw Pit in the same District.[LI]{LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_TOOLTIP_TOWN}[LI]{LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_TOOLTIP_CITY}[/LIST]</Text>
 		</Row>
+
 		<Row Tag="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_TOOLTIP">
-			<Text>+1 [icon:YIELD_PRODUCTION]Production on the City Center. +1 Resource Capacity in the city.</Text>
+			<Text>[LIST][LI]{LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_TOOLTIP_TOWN}[LI]{LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_TOOLTIP_CITY}[/LIST]</Text>
+		</Row>
+
+		<Row Tag="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_TOOLTIP_TOWN">
+			<Text>Town: +1 [icon:YIELD_PRODUCTION]Production per Urban District. +1 Resource Capacity in the Capital.</Text>
+		</Row>
+
+		<Row Tag="LOC_QUARTER_BELLOWS_OF_HEPHAESTUS_TOOLTIP_CITY">
+			<Text>City: +1 [icon:YIELD_PRODUCTION]Production on the City Center. +1 Resource Capacity in the city.</Text>
 		</Row>
 
 	</EnglishText>
